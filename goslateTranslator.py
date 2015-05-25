@@ -34,8 +34,5 @@ def translate(sentence,langid):
         raise Exception("Language Id '"+str(langid)+"' does not exist.\n Please check the language list again.")
     return gs.translate(sentence,langid)    
 
-print getAllLanguages()
-print translate("Hello world",'hi')
-print translate("Hello world",'Hindi')
-print translate("Hello world",'Chinese')
-print translate("Hello world",'sdifkjsdf')
+def translateSRT(filePath,langid):
+    return 0
