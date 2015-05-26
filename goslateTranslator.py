@@ -35,4 +35,6 @@ def translate(sentence,langid):
     return gs.translate(sentence,langid)    
 
 def translateSRT(filePath,langid):
+    fileContent = open(filePath,"r").read()
+    fileLines = fileContent.splitlines().split()[0] 
     return 0
