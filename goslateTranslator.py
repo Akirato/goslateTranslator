@@ -33,16 +33,20 @@ def translate(sentence,langid):
             break 
     if not(langid in languages.keys()):
         raise Exception("Language Id '"+str(langid)+"' does not exist.\n Please check the language list again.")
-    return gs.translate(sentence,langid)    
+    try:
+        return gs.translate(sentence,langid)  
+    except:
+        print("caught")
 
 def translateSRT(filePath,langid):
     fileContent = open(filePath,"r").read()
-    print(fileContent)
     fileLines = fileContent.splitlines()
     outputFile=open(filePath[:-4]+"_"+langid+'.srt',"w")
     for i in fileLines:
-        if i.startswith("<i>") or (len(i)>0 and i[0].isdigit()):
+        if not(i.startswith("<") or (len(i)>0 and i[0].isdigit())):
             print((translate(i,langid).encode('utf-8')),file=outputFile)
+        else:
+            print(i,file=outputFile)
     return 1
 
 if __name__ == "__main__":
@@ -51,6 +55,5 @@ if __name__ == "__main__":
     elif (len(sys.argv)) == 2:
         print("Give the lang id for translation.")
     else:
-        if translateSRT(sys.argv[1],sys.argv[2])!=1:
-            raise RuntimeError("Not able to translate the file.")
+        translateSRT(sys.argv[1],sys.argv[2])
     exit()
