@@ -37,6 +37,7 @@ def translate(need,langid):
         translated.append(gs.translate(i,langid))
     return translated
 
+print(sys.argv[1][:-4])
 #print phrase_wise(sys.argv[0])
 fp = open("result_phrase.txt","w")
 for i in phrase_wise(sys.argv[1]):

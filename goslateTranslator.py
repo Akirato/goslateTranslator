@@ -2,10 +2,11 @@
 Program to translate sentences and files using
 Goslate module of Python
 """
+from __future__ import print_function
 try:
     import sys
 except:
-    raise RuntimeError("Sys module for python not present.\n")
+    raise RuntimeError("Sys module or __future__ for python not present.\n")
 try:
     import goslate
 except:
@@ -36,5 +37,20 @@ def translate(sentence,langid):
 
 def translateSRT(filePath,langid):
     fileContent = open(filePath,"r").read()
-    fileLines = fileContent.splitlines().split()[0] 
-    return 0
+    print(fileContent)
+    fileLines = fileContent.splitlines()
+    outputFile=open(filePath[:-4]+"_"+langid+'.srt',"w")
+    for i in fileLines:
+        if i.startswith("<i>") or (len(i)>0 and i[0].isdigit()):
+            print((translate(i,langid).encode('utf-8')),file=outputFile)
+    return 1
+
+if __name__ == "__main__":
+    if (len(sys.argv)) == 1:
+        print("Give the srt file for translation.")
+    elif (len(sys.argv)) == 2:
+        print("Give the lang id for translation.")
+    else:
+        if translateSRT(sys.argv[1],sys.argv[2])!=1:
+            raise RuntimeError("Not able to translate the file.")
+    exit()
