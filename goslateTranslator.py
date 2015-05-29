@@ -36,7 +36,7 @@ def translate(sentence,langid):
     try:
         return gs.translate(sentence,langid)  
     except:
-        print("caught")
+        print("Error in Connection or Permission.")
 
 def translateSRT(filePath,langid):
     fileContent = open(filePath,"r").read()
