@@ -23,28 +23,38 @@ def detectLanguage(sentence):
 def languageOfId(langid):
     return languages[langid]
 
-def translate(sentence,langid):
+def translate(sentence,sourcelangId,langid):
+    if sourcelangId == None:
+        sourcelangId = detectLanguage(sentence)
     languages = gs.get_languages()
     for i in languages.items():
         if i[0] == langid:
             break
-        if i[1] == langid:
+        if i[1].lower() == langid.lower():
             langid = i[0]
             break 
+    for i in languages.items():
+        if i[0] == sourcelangId:
+            break
+        if i[1].lower() == sourcelangId.lower():
+            sourcelangId = i[0]
+            break
     if not(langid in languages.keys()):
-        raise Exception("Language Id '"+str(langid)+"' does not exist.\n Please check the language list again.")
+        langid == 'en'
+    if not(sourcelangId in languages.keys()):
+        sourcelangId == 'en'
     try:
         return gs.translate(sentence,langid)  
     except:
         print("Error in Connection or Permission.")
 
-def translateSRT(filePath,langid):
+def translateSRT(filePath,sourcelangId,langid):
     fileContent = open(filePath,"r").read()
     fileLines = fileContent.splitlines()
     outputFile=open(filePath[:-4]+"_"+langid+'.srt',"w")
     for i in fileLines:
         if not(i.startswith("<") or (len(i)>0 and i[0].isdigit())):
-            print((translate(i,langid).encode('utf-8')),file=outputFile)
+            print((translate(i,sourcelangId,langid).encode('utf-8')),file=outputFile)
         else:
             print(i,file=outputFile)
     return 1
@@ -53,7 +63,15 @@ if __name__ == "__main__":
     if (len(sys.argv)) == 1:
         print("Give the srt file for translation.")
     elif (len(sys.argv)) == 2:
-        print("Give the lang id for translation.")
-    else:
-        translateSRT(sys.argv[1],sys.argv[2])
+        if sys.argv[1] == "all":
+            print(getAllLanguages())
+        else:
+            print("Give the lang id for translation.")
+    elif len(sys.argv) == 3:
+        if sys.argv[1] == "getIdOfForLang":
+            print(languageOfId(sys.argv[1]))
+        else:
+            translateSRT(sys.argv[1],None,sys.argv[2])
+    elif len(sys.argv) > 3:
+        translateSRT(sys.argv[1],sys.argv[2],sys.argv[3])
     exit()
