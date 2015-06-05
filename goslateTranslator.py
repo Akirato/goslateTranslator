@@ -52,7 +52,10 @@ def translateSRT(filePath,sourcelangId,langid):
     fileContent = open(filePath,"r").read()
     fileLines = fileContent.splitlines()
     outputFile=open(filePath[:-4]+"_"+langid+'.srt',"w")
+    length,h = len(fileLines),1
     for i in fileLines:
+        print("Translating: "+str(h)+"/"+str(length)+" lines.")
+	h=h+1
         if not(i.startswith("<") or (len(i)>0 and i[0].isdigit())):
             print((translate(i,sourcelangId,langid).encode('utf-8')),file=outputFile)
         else:
