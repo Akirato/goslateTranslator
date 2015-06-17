@@ -9,78 +9,78 @@
 
 3
 00:01:53,708 --> 00:01:55,308
-(grognements)
+(resoplidos)
 
 4
 00:02:00,281 --> 00:02:01,682
-(hennissements de chevaux)
+(relinchos de caballos)
 
 5
 00:02:04,686 --> 00:02:06,219
-(grognements)
+(gruñidos)
 
 6
 00:02:58,671 --> 00:03:00,805
-Première Ranger, vous avez
-commandement de Black Castle.
+Primero Ranger, usted tiene
+mando del Castillo Negro.
 
 7
 00:03:01,173 --> 00:03:03,422
-Seigneur commandant,
-il est de mon devoir de vous dire
+Lord Comandante,
+es mi deber decirte
 
 8
 00:03:03,542 --> 00:03:06,645
-Je crois que cette mission
-être imprudente, téméraire,
+Creo que esta misión
+ser imprudente, temerario,
 
 9
 00:03:06,946 --> 00:03:08,647
-et une insulte
-à tous les frères
+y un insulto
+a todos los hermanos
 
 10
 00:03:08,948 --> 00:03:11,650
-qui ont trouvé la mort
-la lutte contre les sauvageons.
+que han muerto
+la lucha contra los salvajes.
 
 11
 00:03:11,951 --> 00:03:14,718
-Comme toujours, je vous remercie
-pour votre honnêteté.
+Como siempre, gracias
+por su honestidad.
 
 12
 00:03:21,593 --> 00:03:22,960
-Bon voyage, Lord Commandant.
+Viajes seguros, Lord Comandante.
 
 13
 00:03:23,195 --> 00:03:25,429
-Merci, Sam.
+Gracias, Sam.
 
 14
 00:03:25,597 --> 00:03:27,265
-Oh, euh ...
+Oh, eh ...
 
 15
 00:03:32,937 --> 00:03:34,337
-Il est dragonglass.
+Es vidriagón.
 
 16
 00:03:34,706 --> 00:03:36,473
-Il est ce que je faisais
-pour tuer le marcheur blanc.
+Es lo que he usado
+para matar el caminante blanco.
 
 17
 00:03:41,980 --> 00:03:43,881
-Je espère que vous ne les utilisez pas.
+Espero que no los necesita.
 
 18
 00:03:44,082 --> 00:03:46,115
-Moi aussi.
+Yo también.
 
 19
 00:04:01,332 --> 00:04:02,498
-Eh bien.
+Bueno.
 
 20
 00:04:13,844 --> 00:04:16,179
@@ -88,20 +88,20 @@ Eh bien.
 
 21
 00:04:16,346 --> 00:04:19,248
-(roucoule)
+(arrullos)
 
 22
 00:04:19,449 --> 00:04:21,149
-Le voilà.
+Ahí está.
 
 23
 00:04:21,484 --> 00:04:23,319
 <i>- (Little Sam giggles)
-- (Rires) </ i>
+- (Risas) </ i>
 
 24
 00:04:25,255 --> 00:04:27,389
-Ce rire.
+Esa risa.
 
 25
 00:04:27,591 --> 00:04:29,692
@@ -114,63 +114,63 @@ Ce rire.
 27
 00:04:32,462 --> 00:04:35,496
 <i>One of the first things
-Je me souviens. </ I>
+Recuerdo. </ I>
 
 28
 00:04:38,868 --> 00:04:42,537
-Son petit frère Aegon.
-Il est devenu roi.
+Su pequeño hermano Aegon.
+Se convirtió en rey.
 
 29
 00:04:44,373 --> 00:04:48,476
-Et avant cela,
-il était un gaillard,
+Y antes de eso,
+él era un tipo alegre,
 
 30
 00:04:48,677 --> 00:04:50,378
-comme celui-ci.
+como este.
 
 31
 00:04:50,546 --> 00:04:52,213
-(rires)
+(risas)
 
 32
 00:04:55,150 --> 00:04:59,019
-Obtenez le sud, Giroflée.
+Conseguir que al sur, Gillyflower.
 
 33
 00:05:00,356 --> 00:05:02,890
-Avant qu'il ne soit trop tard.
+Antes de que sea demasiado tarde.
 
 34
 00:05:32,019 --> 00:05:33,920
-- (Sifflement du vent)
-- (Pleurs)
+- (Silbido del viento)
+- (Llorando)
 
 35
 00:05:46,901 --> 00:05:49,068
-(Les hurlements du vent)
+(Aullido del viento)
 
 36
 00:05:49,236 --> 00:05:51,404
-(soupirs)
+(exclamaciones)
 
 37
 00:05:53,841 --> 00:05:55,241
-Theo, attendez.
+Theo, espera.
 
 38
 00:05:55,509 --> 00:05:57,576
-Non Théon, ma dame.
-Reek.
+No Theon, mi señora.
+Hediondo.
 
 39
 00:05:57,744 --> 00:05:59,512
-Aidez moi.
+Ayúdame.
 
 40
 00:06:01,014 --> 00:06:03,382
-Vous êtes sa femme aujourd'hui.
+Eres su esposa ahora.
 
 41
 00:06:03,550 --> 00:06:05,584
@@ -178,95 +178,95 @@ Theon.
 
 42
 00:06:05,786 --> 00:06:07,019
-Faites ce qu'il dit.
+Haz lo que dice.
 
 43
 00:06:07,287 --> 00:06:08,608
-Faites ce qu'il dit
-ou il va vous faire du mal.
+Haz lo que dice
+o él te hará daño.
 
 44
 00:06:08,755 --> 00:06:11,357
-Il me fait mal déjà tous les soirs.
+Ya me duele cada noche.
 
 45
 00:06:11,625 --> 00:06:12,865
-Toute la journée je suis enfermé dans cette chambre
+Todo el día estoy encerrado en este cuarto
 
 46
 00:06:13,126 --> 00:06:14,926
-et chaque soir il vient ...
+y cada noche que viene ...
 
 47
 00:06:17,730 --> 00:06:19,063
-Il ne peut pas être pire.
+No puede ser peor.
 
 48
 00:06:19,365 --> 00:06:22,934
-Ça peut.
-Il peut toujours être pire.
+Puede.
+Siempre puede ser peor.
 
 49
 00:06:32,410 --> 00:06:33,731
-- Qu'est-ce qu'il vous a fait?
-- S'il vous plaît.
+- ¿Qué hizo a usted?
+- Por Favor.
 
 50
 00:06:33,946 --> 00:06:36,480
-- Vous avez trahi ma famille!
-- Je suis désolé! Je suis désolé!
+- Has traicionado a mi familia!
+- Lo siento! Lo siento!
 
 51
 00:06:36,781 --> 00:06:38,883
-Vous devez me aider.
-Theon, aide-moi.
+Tienes que ayudarme.
+Theon, ayúdame.
 
 52
 00:06:39,218 --> 00:06:42,353
-Il va nous voir.
-Vous ne le connaissez pas.
+Él va a ver nosotros.
+Usted no lo conoce.
 
 53
 00:06:42,721 --> 00:06:43,888
-Ma famille a toujours
-amis du Nord.
+Mi familia todavía tiene
+amigos en el Norte.
 
 54
 00:06:44,289 --> 00:06:47,191
-Tout ce que je dois faire est de donner un
-signal et ils vont me sauver.
+Todo lo que necesito hacer es dar una
+señal y me van a rescatar.
 
 55
 00:06:47,492 --> 00:06:49,693
-Grimpez au sommet
-de la tour cassé.
+Sube a la cima
+de la torre rota.
 
 56
 00:06:50,061 --> 00:06:51,741
-Allumez cette bougie
-et le mettre dans la fenêtre.
+Encienda esta vela
+y lo puso en la ventana.
 
 57
 00:06:52,063 --> 00:06:54,297
-- Promets-moi, Théo.
-- Reek! Mon nom est Reek.
+- Prométeme, Theo.
+- Reek! Mi nombre es Reek.
 
 58
 00:06:57,268 --> 00:07:00,070
-Votre nom est Theon Greyjoy.
+Su nombre es Theon Greyjoy.
 
 59
 00:07:01,639 --> 00:07:03,574
-Dernier fils survivant
+Última hijo sobreviviente
 Balon Greyjoy de,
 
 60
 00:07:03,808 --> 00:07:04,975
-Seigneur des Iles de Fer.
+Señor de las Islas del Hierro.
 
 61
 00:07:05,176 --> 00:07:06,576
-Vous m'entendez?
+Me escuchas?
 
 62
 00:07:09,847 --> 00:07:11,414
@@ -274,7 +274,7 @@ Theon ...
 
 63
 00:07:13,017 --> 00:07:14,351
-promets-moi.
+prometeme.
 
 64
 00:07:32,969 --> 00:07:36,171
@@ -282,15 +282,15 @@ promets-moi.
 
 65
 00:07:36,373 --> 00:07:38,374
-(Les hurlements du vent)
+(Aullido del viento)
 
 66
 00:08:17,980 --> 00:08:19,713
-Oui, Reek?
+Sí, Reek?
 
 67
 00:08:33,862 --> 00:08:35,262
-(Roucoulement)
+(Arrullo)
 
 68
 00:08:35,497 --> 00:08:37,531
@@ -299,89 +299,89 @@ Aemon:
 
 69
 00:08:37,699 --> 00:08:39,934
-Egg.
+Huevo.
 
 70
 00:08:42,203 --> 00:08:44,504
-Mère te cherche.
+Madre te está buscando.
 
 71
 00:08:46,007 --> 00:08:47,941
-Egg.
+Huevo.
 
 72
 00:08:49,877 --> 00:08:52,512
-Dormez, Sam.
+Duerme un poco, Sam.
 
 73
 00:08:52,847 --> 00:08:54,881
-Vous aurez à parler
-pour lui demain.
+Vas a tener que hablar
+para él mañana.
 
 74
 00:08:56,717 --> 00:08:57,985
-Vous ne savez pas que.
+Usted no sabe eso.
 
 75
 00:08:58,219 --> 00:09:00,553
-Va dormir.
+Duerme un poco.
 
 76
 00:09:00,788 --> 00:09:03,222
-Je vais veiller sur lui.
+Voy a ver por encima de él.
 
 77
 00:09:05,693 --> 00:09:08,060
 Sam:
-Je reste aussi.
+Yo me quedo, también.
 
 78
 00:09:08,362 --> 00:09:10,062
-Il a toujours été bon pour moi.
+Él siempre ha sido bueno conmigo.
 
 79
 00:09:10,297 --> 00:09:12,064
-Je ne peux pas le laisser maintenant.
+No puedo irme ahora.
 
 80
 00:09:13,100 --> 00:09:15,368
-Egg!
+Huevo!
 
 81
 00:09:15,603 --> 00:09:18,570
-(Respiration laborieuse)
+(Dificultad para respirar)
 
 82
 00:09:26,613 --> 00:09:28,614
-Egg.
+Huevo.
 
 83
 00:09:29,949 --> 00:09:32,284
-J'ai rêvé ...
+Yo soñé ...
 
 84
 00:09:32,486 --> 00:09:34,486
-que je suis vieux.
+que yo era viejo.
 
 85
 00:09:45,899 --> 00:09:48,133
-Sam: <i> Son nom
-Était Aemon Targaryen. </ I>
+Sam: <i> Su nombre
+Fue Aemon Targaryen. </ I>
 
 86
 00:09:49,668 --> 00:09:51,403
 <i>He came to us
-de Kings Landing. </ i>
+de Desembarco del Rey. </ i>
 
 87
 00:09:54,006 --> 00:09:56,908
 <i>A maester of the Citadel,
-enchaîné et sous serment, </ i>
+encadenado y jurado, </ i>
 
 88
 00:09:57,343 --> 00:10:00,311
 <i>and sworn brother of the
-Montre de Nuit, toujours fidèle. </ I>
+La Guardia de la Noche, siempre fiel. </ I>
 
 89
 00:10:01,747 --> 00:10:03,581
@@ -393,186 +393,186 @@ Montre de Nuit, toujours fidèle. </ I>
 
 91
 00:10:08,787 --> 00:10:11,422
-Au mur,
-une douzaine de commandants seigneur
+En la pared,
+una docena de comandantes señor
 
 92
 00:10:11,757 --> 00:10:13,858
-allaient et venaient cours
-ses années de service,
+iban y venían durante
+sus años de servicio,
 
 93
 00:10:14,159 --> 00:10:16,193
-mais il était toujours là
-de les conseiller.
+pero él siempre estaba allí
+para aconsejarlos.
 
 94
 00:10:19,665 --> 00:10:21,198
-Il était le sang
-du dragon ...
+Era la sangre
+del dragón ...
 
 95
 00:10:23,501 --> 00:10:25,602
-mais maintenant son feu est éteint.
+pero ahora su fuego se ha apagado.
 
 96
 00:10:28,339 --> 00:10:29,906
-Et maintenant sa montre est terminée.
+Y ahora su guardia ha terminado.
 
 97
 00:10:30,208 --> 00:10:32,609
-Tous: Et maintenant, sa montre est terminée.
+Todos: Y ahora se acabó el reloj.
 
 98
 00:10:37,382 --> 00:10:39,649
-(reniflements)
+(estornudos)
 
 99
 00:11:01,338 --> 00:11:03,639
-Vous perdez
-tous vos amis, Tarly.
+Estás perdiendo
+todos sus amigos, Tarly.
 
 100
 00:11:41,210 --> 00:11:42,844
-Ma jolie femme.
+Mi hermosa esposa.
 
 101
 00:11:49,018 --> 00:11:50,579
-Quand mon père m'a dit
-nous marions,
+Cuando mi padre me dijo
+que se casaban,
 
 102
 00:11:50,719 --> 00:11:53,755
-Je la moitié attendais
-une graisse, bête barbu.
+Casi esperaba
+una grasa, bestia barbudo.
 
 103
 00:11:58,694 --> 00:12:01,362
-Savez-vous comment le plaisir
-Je l'étais quand je vous ai vu?
+¿Sabes lo contento
+Yo estaba cuando te vi?
 
 104
 00:12:01,630 --> 00:12:03,797
-Vous avez m'a rendu très heureux.
+Me has hecho muy feliz.
 
 105
 00:12:08,803 --> 00:12:11,772
-Nos éclaireurs rapportent que Stannis
-Baratheon monte pour Winterfell.
+Nuestros exploradores informan que Stannis
+Baratheon corre para Invernalia.
 
 106
 00:12:12,040 --> 00:12:14,542
-Il est un commandant respecté.
+Él es un comandante respetado.
 
 107
 00:12:14,876 --> 00:12:18,045
-Ses troupes sont fidèles
-et la bataille-testé.
+Sus tropas son leales
+y probado batalla.
 
 108
 00:12:18,479 --> 00:12:22,115
-Il a embauché des milliers de étrangère
-sellswords pour renforcer son armée.
+Ha contratado a miles de extranjeros
+mercenarios para reforzar su ejército.
 
 109
 00:12:22,483 --> 00:12:25,285
-Mais cette tempête est un accident vasculaire cérébral
-de chance pour nous, les habitants du Nord.
+Pero esta tormenta es un accidente cerebrovascular
+de suerte para nosotros los norteños.
 
 110
 00:12:27,321 --> 00:12:30,090
-Nos gens sont habitués
-à la lutte contre dans le gel.
+Se utilizan Nuestra gente
+a luchar en la escarcha.
 
 111
 00:12:31,959 --> 00:12:35,094
-Son armée est là maintenant
-la souffrance dans la neige.
+Su ejército está ahí fuera ahora
+el sufrimiento en la nieve.
 
 112
 00:12:36,830 --> 00:12:38,298
-Un jour, je serai
-Seigneur de Winterfell
+Un día voy a ser
+Señor de Invernalia
 
 113
 00:12:38,566 --> 00:12:40,567
-et Gardienne du Nord.
+y Guardián del Norte.
 
 114
 00:12:40,834 --> 00:12:42,935
-Vous serez ma dame et Wardeness.
+Usted será mi dama y Wardeness.
 
 115
 00:12:46,407 --> 00:12:48,241
-Mais est pas
-votre belle-mère enceinte?
+Pero no es
+su madrastra embarazada?
 
 116
 00:12:48,442 --> 00:12:51,210
-Qu'est-ce que cela?
+Lo que de ella?
 
 117
 00:12:51,477 --> 00:12:53,179
-Qu'est-ce qui se passe si elle a un garçon?
+¿Qué pasa si ella tiene un niño?
 
 118
 00:12:54,948 --> 00:12:56,448
-Ensuite, je vais avoir un petit frère.
+Entonces voy a tener un hermanito.
 
 119
 00:12:56,683 --> 00:12:58,050
-Mais il sera l'héritier.
+Pero él será el heredero.
 
 120
 00:12:58,318 --> 00:13:00,319
-Je suis le fils aîné de lord Bolton.
+Soy el hijo mayor de Lord Bolton.
 
 121
 00:13:00,587 --> 00:13:01,854
-Mais vous êtes un salaud.
+Pero usted es un hijo de puta.
 
 122
 00:13:02,189 --> 00:13:04,857
-Un trueborn sera toujours
-que la revendication forte.
+Un trueborn será siempre
+tener el reclamo más fuerte.
 
 123
 00:13:08,094 --> 00:13:10,429
-Je l'ai été naturalisé
-par un décret royal de ...
+He sido naturalizado
+por un decreto real de ...
 
 124
 00:13:10,697 --> 00:13:13,665
 Tommen Baratheon?
-Un autre salaud.
+Otro hijo de puta.
 
 125
 00:13:20,707 --> 00:13:23,575
-Bâtards peuvent monter
-élevé dans le monde.
+Bastards pueden subir
+alta en el mundo.
 
 126
 00:13:23,876 --> 00:13:26,644
-Comme votre demi-frère
-Jon Snow.
+Al igual que su medio hermano
+Jon Nieve.
 
 127
 00:13:27,679 --> 00:13:30,615
-Né le bâtard de Winterfell,
+Nacido el bastardo de Invernalia,
 
 128
 00:13:30,983 --> 00:13:33,618
-maintenant, le Seigneur commandant
-de la Garde de Nuit.
+ahora el Señor Comandante
+de la Guardia de la Noche.
 
 129
 00:13:35,654 --> 00:13:37,822
-Tu ne savais pas?
+No sabías?
 
 130
 00:13:38,157 --> 00:13:40,991
-Oui, il a fait
-très bien pour lui-même.
+Sí, lo que ha hecho
+muy bien por sí mismo.
 
 131
 00:13:41,159 --> 00:13:42,760
@@ -580,12 +580,12 @@ Oh.
 
 132
 00:13:43,128 --> 00:13:45,363
-Je presque oublié pourquoi
-Je vous ai demandé de me rejoindre.
+Casi me olvidé por qué
+Te pedí que me acompañen.
 
 133
 00:13:45,564 --> 00:13:46,997
-Venez, ma dame.
+Ven, mi señora.
 
 134
 00:13:58,676 --> 00:14:00,244
@@ -594,102 +594,102 @@ Ramsay:
 
 135
 00:14:03,681 --> 00:14:05,949
-Reek m'a dit
-vous vouliez quitter.
+Reek me dijo
+que quería irse.
 
 136
 00:14:06,084 --> 00:14:07,517
-Pourquoi?
+¿Por qué?
 
 137
 00:14:07,752 --> 00:14:09,153
-Winterfell est votre maison
+Invernalia es tu casa
 
 138
 00:14:09,387 --> 00:14:11,755
-et je suis votre mari.
+y yo soy tu marido.
 
 139
 00:14:11,990 --> 00:14:13,657
-Vieil oiseau dur.
+Pájaro viejo duro.
 
 140
 00:14:13,991 --> 00:14:16,092
-Tout le monde parle
-quand je commence à les éplucher.
+Todo el mundo habla
+cuando empiezo pelarlas.
 
 141
 00:14:16,327 --> 00:14:18,495
-Mais celui-ci,
+Pero éste,
 
 142
 00:14:18,862 --> 00:14:21,331
-a donné son cœur avant
-Je ai même eu à son visage.
+su corazón dio antes
+Incluso llegué a su cara.
 
 143
 00:14:23,834 --> 00:14:26,736
-Nous faisons les élever difficile
-dans le nord.
+Hacemos criarlos dura
+en el norte.
 
 144
 00:14:33,010 --> 00:14:35,477
-Apportez ma femme
-retour à sa chambre.
+Traiga mi esposa
+de vuelta a su habitación.
 
 145
 00:14:35,779 --> 00:14:37,880
-Il est beaucoup trop froide
-ici pour une dame.
+Es demasiado frío
+aquí para una dama.
 
 146
 00:14:38,182 --> 00:14:40,950
-Vous devriez tenir
-à vos bougies.
+Usted debe aferrarse
+a sus velas.
 
 147
 00:14:41,218 --> 00:14:44,053
-Les nuits sont si longtemps maintenant.
+Las noches son tan largas ahora.
 
 148
 00:15:00,437 --> 00:15:02,404
-(rires)
+(risas)
 
 149
 00:15:04,640 --> 00:15:06,641
-(Bavardage)
+(Charla)
 
 150
 00:15:10,612 --> 00:15:12,380
-- (Bavardage continue)
-- (Homme toux)
+- (Charla continúa)
+- (Hombre tos)
 
 151
 00:15:34,002 --> 00:15:36,270
-Davos: <i> 40 chevaux
-décédé dans la nuit. </ i>
+Davos: <i> 40 caballos
+murió en la noche. </ i>
 
 152
 00:15:36,571 --> 00:15:39,106
-Nous allons perdre le coucher du soleil plus venir.
+Perderemos la puesta de sol más por venir.
 
 153
 00:15:39,407 --> 00:15:40,674
-Nous allons manquer de nourriture.
+Nos estamos quedando sin alimentos.
 
 154
 00:15:41,076 --> 00:15:43,443
-Nous ne pouvons pas ouvrir l'alimentation
-ligne jusqu'à ce que la neige efface.
+No podemos abrir la oferta
+línea hasta que la nieve borra.
 
 155
 00:15:48,783 --> 00:15:49,783
-Quoi d'autre?
+Qué más?
 
 156
 00:15:50,018 --> 00:15:52,986
-Les Stormcrows
-partit la nuit dernière.
+Los Cuervos de Tormenta
+montó anoche.
 
 157
 00:15:56,357 --> 00:15:57,924
@@ -697,118 +697,118 @@ partit la nuit dernière.
 
 158
 00:16:01,161 --> 00:16:03,196
-Sellswords.
+Mercenarios.
 
 159
 00:16:03,464 --> 00:16:05,632
-Fidèle à rien d'autre que l'or.
+Fiel a nada más que el oro.
 
 160
 00:16:09,603 --> 00:16:11,871
-Nous avons encore un disque
-mars à Winterfell
+Todavía tenemos un disco
+marcha a Invernalia
 
 161
 00:16:12,273 --> 00:16:13,306
-et nous ne serons pas marchons
-partout dans ce temps.
+y no vamos a estar marchando
+en cualquier lugar en este tiempo.
 
 162
 00:16:13,473 --> 00:16:15,108
-Et?
+¿Y?
 
 163
 00:16:15,342 --> 00:16:16,675
-Cela ne veut pas notre temps.
+Este no es nuestro tiempo.
 
 164
 00:16:17,111 --> 00:16:20,246
-Nous devrions retourner à Castle
-Noir quand la neige efface.
+Debemos regresar al Castillo
+Negro cuando la nieve se despeja.
 
 165
 00:16:20,614 --> 00:16:22,782
-Je me suis retiré de
-Kings Landing, Ser Davos.
+Me retiré de
+Desembarco del Rey, Ser Davos.
 
 166
 00:16:23,150 --> 00:16:26,251
-Si je me retire à nouveau,
-Je vais devenir le roi Qui Ran.
+Si me retiro de nuevo,
+Me convertiré en el rey que dirigía.
 
 167
 00:16:26,553 --> 00:16:28,353
-- Ta Grace ...
-- L'hiver arrive.
+- Tu Gracia ...
+- El invierno se acerca.
 
 168
 00:16:28,722 --> 00:16:31,390
-Ce ne sont pas seulement les mots Stark.
-C'est un fait.
+No son sólo las palabras Stark.
+Es un hecho.
 
 169
 00:16:31,691 --> 00:16:34,393
-Si nous marchons
-retour au Château Noir,
+Si marchamos
+volver al Castillo Negro,
 
 170
 00:16:34,661 --> 00:16:36,695
-nous hiver à Black Castle.
+que el invierno en el Castillo Negro.
 
 171
 00:16:36,996 --> 00:16:38,697
-Et qui peut dire combien d'années
+Y quién puede decir cuántos años
 
 172
 00:16:38,965 --> 00:16:40,466
-cet hiver va durer?
+este invierno va a durar?
 
 173
 00:16:40,867 --> 00:16:42,600
-Il est préférable d'attendre le bon
-temps que tout risque.
+Es mejor esperar a la derecha
+vez de arriesgarse a todo.
 
 174
 00:16:42,969 --> 00:16:44,929
-Ceci est le bon moment
-et je vais tout risquer.
+Este es el momento adecuado
+y voy a arriesgarlo todo.
 
 175
 00:16:45,171 --> 00:16:48,206
-Parce que si je ne le fais pas, nous avons perdu.
+Porque si no lo hago, que hemos perdido.
 
 176
 00:16:48,408 --> 00:16:50,342
-Nous marchons vers la victoire
+Marchamos hacia la victoria
 
 177
 00:16:50,576 --> 00:16:54,246
-ou nous marchons à la défaite.
+o marchamos a la derrota.
 
 178
 00:16:54,547 --> 00:16:56,848
-Mais nous allons de l'avant.
-Avant seulement.
+Pero seguimos adelante.
+Sólo hacia adelante.
 
 179
 00:17:06,826 --> 00:17:08,526
-Ta Grace.
+Tu Gracia.
 
 180
 00:17:13,365 --> 00:17:15,599
-Je l'ai fait confiance dans vos visions
+Yo he confiado en sus visiones
 
 181
 00:17:15,900 --> 00:17:18,735
-et vos prophéties pour les années.
+y sus profecías para años.
 
 182
 00:17:19,004 --> 00:17:21,505
-Vous avez vu vous-même, mon roi,
+Usted lo vio a sí mismo, mi rey,
 
 183
 00:17:21,773 --> 00:17:23,441
-lorsque vous regardé fixement dans les flammes.
+cuando miró a las llamas.
 
 184
 00:17:23,741 --> 00:17:24,875
@@ -816,116 +816,116 @@ lorsque vous regardé fixement dans les flammes.
 
 185
 00:17:25,210 --> 00:17:27,111
-- Je ne sais pas ce que je voyais.
-- <I> Vous ne sais </ i>.
+- No sé lo que vi.
+- <I> Usted sé </ i>.
 
 186
 00:17:27,346 --> 00:17:28,346
-Ayez confiance en vous.
+Confiar en ti mismo.
 
 187
 00:17:28,613 --> 00:17:30,514
-Et vous?
-Avez-vous confiance en vous?
+Y usted?
+¿Confías en ti mismo?
 
 188
 00:17:30,748 --> 00:17:33,016
-Je fais confiance dans le Seigneur.
+Confío en el Señor.
 
 189
 00:17:35,520 --> 00:17:37,788
-Êtes-vous sûr?
+Estás seguro?
 
 190
 00:17:43,561 --> 00:17:46,797
-Je me suis vu marcher le long
-les créneaux de Winterfell.
+Me he visto caminar a lo largo de
+las almenas de Invernalia.
 
 191
 00:17:47,231 --> 00:17:51,801
-Je l'ai vu l'homme écorché
-bannières abaissé vers le sol.
+He visto al hombre desollado
+banners bajaron al suelo.
 
 192
 00:18:00,611 --> 00:18:04,047
-Mais parfois des sacrifices doivent
-être fait pour assurer la victoire.
+Pero a veces sacrificios deben
+hacerse para asegurar la victoria.
 
 193
 00:18:06,249 --> 00:18:09,485
-Je vous ai montré
-la puissance du sang de roi.
+Te he mostrado
+el poder de la sangre del rey.
 
 194
 00:18:09,753 --> 00:18:10,820
-L'usurpateur Robb Stark.
+El usurpador Robb Stark.
 
 195
 00:18:11,121 --> 00:18:13,222
-L'usurpateur Joffrey Baratheon.
+El usurpador Joffrey Baratheon.
 
 196
 00:18:13,557 --> 00:18:15,625
-Nous n'avons pas
-Bâtard de Robert ici.
+No tenemos
+Bastardo de Robert aquí.
 
 197
 00:18:15,926 --> 00:18:19,261
-Non, nous avons quelqu'un de mieux.
+No, tenemos a alguien mejor.
 
 198
 00:18:21,097 --> 00:18:23,132
-Et votre sang
-court dans ses veines.
+Y la sangre
+corre por sus venas.
 
 199
 00:18:24,967 --> 00:18:26,735
-Avez-vous perdu votre esprit?
+¿Te has perdido la cabeza?
 
 200
 00:18:26,936 --> 00:18:28,370
-Avez-vous doutez de moi?
+¿Me dudas?
 
 201
 00:18:28,571 --> 00:18:30,906
-Toujours?
+Aún así?
 
 202
 00:18:31,174 --> 00:18:32,741
-Après tout ce que vous avez vu.
+Después de todo lo que has visto.
 
 203
 00:18:33,009 --> 00:18:34,476
-Il doit y avoir une autre façon.
+Tiene que haber otra manera.
 
 204
 00:18:34,777 --> 00:18:37,079
-- Les sangsues ou ...
-- Il ya une seule façon.
+- Las sanguijuelas o ...
+- Sólo hay una manera.
 
 205
 00:18:37,447 --> 00:18:41,049
-Vous devez devenir roi
-avant le début de la longue nuit.
+Usted debe convertirse en rey
+antes de que comience la Larga Noche.
 
 206
 00:18:41,417 --> 00:18:43,218
-Seulement, vous pouvez conduire
-la salle contre les morts.
+Sólo puedes llevar
+los vivos contra los muertos.
 
 207
 00:18:43,485 --> 00:18:46,621
-Toute votre vie, nous a conduit
-à ce moment.
+Toda tu vida nos ha llevado
+a este momento.
 
 208
 00:18:46,956 --> 00:18:49,024
-- Pour cette décision.
-- Elle est ma fille.
+- Para esta decisión.
+- Ella es mi hija.
 
 209
 00:18:51,460 --> 00:18:53,494
-Sortez.
+Fuera.
 
 210
 00:19:13,682 --> 00:19:15,449
@@ -933,91 +933,91 @@ Sortez.
 
 211
 00:19:15,784 --> 00:19:17,184
-Il y a toujours
-une sorte de grub sur.
+Siempre hay
+algún tipo de comida en.
 
 212
 00:19:17,485 --> 00:19:19,386
-Un peu de viande de mouton serait bien.
+Un poco de cordero sería agradable.
 
 213
 00:19:23,058 --> 00:19:26,927
-- A partir de beauté au-delà du mur.
-- <I> (homme rires) </ i>
+- Una belleza del otro lado del Muro.
+- <I> (hombre risas) </ i>
 
 214
 00:19:27,361 --> 00:19:29,881
-Où vas-tu, mon amour? Ne sommes-nous
-plus beau que le gros homme?
+¿A dónde vas, amor? ¿No somos
+más guapo que el gordo?
 
 215
 00:19:29,897 --> 00:19:32,665
-Non, la question est est-elle jolie
-vers le sud dans le monde réel
+No, la cuestión es que ella es bonita
+hacia el sur en el mundo real
 
 216
 00:19:33,033 --> 00:19:34,953
-ou est-elle jolie cause »
-elle est la seule fille ici?
+o es ella bonita causa "
+ella es la única mujer aquí?
 
 217
 00:19:34,969 --> 00:19:36,636
-Même dans Blancport,
-Je veux un baiser.
+Incluso en Puerto Blanco,
+Yo quiero un beso.
 
 218
 00:19:36,904 --> 00:19:39,672
-Allez, l'amour, nous donner un baiser.
+Vamos, amor, nos dan un beso.
 
 219
 00:19:40,174 --> 00:19:42,576
-- Laissez-moi tranquille. - Oh, si vous étiez ma fille,
-Je ne voudrais pas vous laisser seul.
+- Déjame en paz. - Oh, si fueras mi chica,
+Yo no te dejan en paz.
 
 220
 00:19:42,910 --> 00:19:44,110
-- Un petit baiser.
-- Allons, lui donner un baiser.
+- Un besito.
+- Vamos, darle un beso.
 
 221
 00:19:44,411 --> 00:19:46,479
-Un homme obtient solitaire
-garder le mur.
+Un hombre se siente solo
+custodiando el Muro.
 
 222
 00:19:51,184 --> 00:19:52,384
-Il n'y a pas besoin d'être grossier.
+No hay necesidad de ser grosero.
 
 223
 00:19:52,685 --> 00:19:54,453
-Nous voulons juste un peu d'affection.
+Sólo queremos un poco de cariño.
 
 224
 00:19:54,687 --> 00:19:57,156
 Ooh.
-(rires)
+(risas)
 
 225
 00:19:58,658 --> 00:20:00,459
-Obtenez vos mains sur elle.
+Consiga sus manos de encima.
 
 226
 00:20:00,727 --> 00:20:03,194
-Frère Derek, Frère Brant,
+Brother Derek, el hermano Brant,
 
 227
 00:20:03,529 --> 00:20:05,363
-Je crois que vous deux
-ont le devoir de garde ce soir.
+Creo que ambos
+tienen el deber de guardia esta noche.
 
 228
 00:20:05,564 --> 00:20:06,965
-Sam la Tueuse.
+Sam la Cazadora.
 
 229
 00:20:07,266 --> 00:20:08,587
-Tu vas me tuiez
-avec cette épée?
+¿Vas a matarme
+con esa espada?
 
 230
 00:20:08,835 --> 00:20:10,002
@@ -1026,25 +1026,25 @@ Brant:
 
 231
 00:20:10,202 --> 00:20:12,037
-Gilly, allez sur.
+Gilly, seguir adelante.
 
 232
 00:20:12,371 --> 00:20:14,272
-Retournez à votre chambre,
-verrouiller la porte.
+Vuelve a tu habitación,
+cierra la puerta.
 
 233
 00:20:17,776 --> 00:20:19,377
-- Je vous préviens.
-- Allons.
+- Te estoy advirtiendo.
+- Vamos.
 
 234
 00:20:19,545 --> 00:20:21,212
-Allons.
+Vamos.
 
 235
 00:20:22,515 --> 00:20:24,715
-(grognements)
+(gruñidos)
 
 236
 00:20:24,883 --> 00:20:26,451
@@ -1052,7 +1052,7 @@ Sam!
 
 237
 00:20:26,718 --> 00:20:29,020
-Vous couché sac de merde.
+Usted miente saco de mierda.
 
 238
 00:20:29,355 --> 00:20:30,821
@@ -1061,96 +1061,96 @@ Derek:
 
 239
 00:20:31,123 --> 00:20:33,324
-- Vous graisses baise d'âne.
-- (gémissements)
+- Vete a la mierda culo gordo.
+- (gemidos)
 
 240
 00:20:33,559 --> 00:20:35,025
-Allez, levez-vous.
+Vamos, levántate.
 
 241
 00:20:35,393 --> 00:20:37,761
-- Gilly: <i> Non!
-- Ce que votre héros? Ce porc? </ I>
+- Gilly: <i> No!
+- Esta es tu héroe? Este cerdo? </ I>
 
 242
 00:20:37,962 --> 00:20:40,864
-Laisse-le tranquille!
+Déjalo en paz!
 
 243
 00:20:41,232 --> 00:20:43,400
-Obstiné peu sauvageon
-chienne, n'êtes-vous pas?
+Poco salvaje se Terco
+perra, ¿no es así?
 
 244
 00:20:43,701 --> 00:20:45,335
-- (Gilly crie)
-- (grognements)
+- (Gilly grita)
+- (gruñidos)
 
 245
 00:20:45,570 --> 00:20:47,604
-- Allons!
-- Non!
+- Vamos!
+- ¡No!
 
 246
 00:20:47,872 --> 00:20:50,641
 - Sam! Sam! Sam!
-- Allons!
+- Vamos!
 
 247
 00:20:53,644 --> 00:20:55,611
-(Pleurnichant)
+(Lloriqueando)
 
 248
 00:20:55,813 --> 00:20:58,247
-(Grognements)
+(Gruñidos)
 
 249
 00:20:59,784 --> 00:21:01,885
 - Gilly: Sam! Sam!
-- Derek: Allez.
+- Derek: Vamos.
 
 250
 00:21:02,219 --> 00:21:03,753
-- Brant: <i> Droit.
-- (Gilly pleurer) </ i>
+- Brant: <i> Derecho.
+- (Gilly llorando) </ i>
 
 251
 00:21:04,121 --> 00:21:06,389
-- Derek: <i> Je vais répondre à cela.
-- (Déchirure du tissu) </ i>
+- Derek: <i> Yo me encargo de esto.
+- (Extracción de tejido) </ i>
 
 252
 00:21:08,325 --> 00:21:10,226
-- Derek: <i> Activer son cours.
-- Brant: Très bien. </ I>
+- Derek: <i> entregarla.
+- Brant:. Muy bien </ i>
 
 253
 00:21:12,296 --> 00:21:15,498
-Je l'ai dit obtenir vos mains sur elle.
+He dicho que las manos de encima.
 
 254
 00:21:15,832 --> 00:21:17,393
-Brant: Tu vas
-vous faire tuer.
+Brant: Vas
+conseguir que te maten.
 
 255
 00:21:17,467 --> 00:21:19,535
-Votre amant Jon Snow
-pas ici pour vous sauver.
+Tu amante Jon Snow
+no aquí para salvarte.
 
 256
 00:21:19,903 --> 00:21:22,271
-Je tuais un marcheur blanc,
-Je tué un Thenn.
+Maté a un caminante blanco,
+Maté a un Thenn.
 
 257
 00:21:22,573 --> 00:21:25,140
-Je vais prendre mes chances avec vous.
+Voy a tomar mis posibilidades con usted.
 
 258
 00:21:28,011 --> 00:21:29,778
-(Hargneux, grognements)
+(Gruñidos, gruñidos)
 
 259
 00:21:37,253 --> 00:21:38,620
@@ -1163,92 +1163,92 @@ Je vais prendre mes chances avec vous.
 
 261
 00:21:45,260 --> 00:21:47,228
-- Je vais bien.
-- Vous n'êtes pas.
+- Estoy bien.
+- No eres.
 
 262
 00:21:47,462 --> 00:21:49,831
-Juste un peu patraque.
+Sólo un poco mareado.
 
 263
 00:22:06,681 --> 00:22:09,783
-(Grimaçant)
+(Haciendo una mueca)
 
 264
 00:22:14,722 --> 00:22:17,162
-La prochaine fois que vous voyez quelque chose
-comme ça, vous le laissez seul.
+La próxima vez que vea algo
+así, lo deja solo.
 
 265
 00:22:17,458 --> 00:22:20,193
 <i>I will not.
-Ils auraient ... </ i>
+Tendrían ... </ i>
 
 266
 00:22:23,530 --> 00:22:25,365
-Je ne sais pas quoi
-ils l'auraient fait.
+No sé qué
+lo habrían hecho.
 
 267
 00:22:25,733 --> 00:22:27,901
-Je sais qu'ils auraient tué
-vous si Esprit était pas venu.
+Sé que habrían matado
+si Ghost no hubieras venido.
 
 268
 00:22:28,202 --> 00:22:31,036
-Non non Non.
-Ils ont été fatiguer.
+No no no.
+Fueron agotador.
 
 269
 00:22:31,337 --> 00:22:33,839
-Je les avais
-dans la paume de ma main.
+Yo los tenía
+en la palma de mi mano.
 
 270
 00:22:35,075 --> 00:22:37,109
-Ne sois pas stupide, Sam.
+No seas estúpido, Sam.
 
 271
 00:22:37,343 --> 00:22:40,012
-Vous n'êtes pas un combattant.
+Usted no es un luchador.
 
 272
 00:22:40,313 --> 00:22:41,546
-Quel genre d'homme serais-je
+¿Qué clase de hombre sería yo
 
 273
 00:22:41,882 --> 00:22:44,183
-si je me suis enfui quand je voyais
-quelqu'un que vous blesser?
+si me escapé cuando vi
+alguien haciendo daño?
 
 274
 00:22:44,384 --> 00:22:46,852
-Promets-moi
+Sólo prométeme
 
 275
 00:22:47,220 --> 00:22:49,655
-quoi qu'il arrive, vous aurez
-prendre soin de Little Sam.
+pase lo que pase, usted
+cuidar de Pequeño Sam.
 
 276
 00:22:49,889 --> 00:22:51,623
-Mais bien sûr, je le ferai.
+Pero, por supuesto que lo haré.
 
 277
 00:22:51,824 --> 00:22:54,025
-Et ...
+Y ...
 
 278
 00:22:54,327 --> 00:22:56,528
-Je vais prendre soin de vous, aussi.
+Yo me ocuparé de ti, también.
 
 279
 00:23:03,068 --> 00:23:04,669
-Je besoin de plus d'eau.
+Necesito más agua.
 
 280
 00:23:08,507 --> 00:23:10,675
-Séjour.
+Estancia.
 
 281
 00:23:10,876 --> 00:23:12,576
@@ -1256,27 +1256,27 @@ Séjour.
 
 282
 00:24:01,158 --> 00:24:03,459
-(Respiration accélère)
+(Respiración se acelera)
 
 283
 00:24:11,100 --> 00:24:12,668
-(grimace)
+(hace una mueca)
 
 284
 00:24:12,902 --> 00:24:14,336
-Je vous fais mal?
+Estoy lastimando?
 
 285
 00:24:18,274 --> 00:24:19,675
-Êtes-vous sûr?
+Estás seguro?
 
 286
 00:24:45,768 --> 00:24:48,936
-(gémissements)
+(gemidos)
 
 287
 00:24:49,137 --> 00:24:51,539
-Oh mon!
+Oh mi!
 
 288
 00:24:54,309 --> 00:24:56,811
@@ -1284,71 +1284,71 @@ Oh mon!
 
 289
 00:25:07,355 --> 00:25:09,056
-- (fouet claque)
-- (grognements)
+- (grietas látigo)
+- (gruñidos)
 
 290
 00:25:09,490 --> 00:25:11,570
-Malko: <i> Une perle rare pour le
-fosses de défense, mes amis. </ i>
+Malko: <i> Un hallazgo raro para el
+pozos de lucha, mis amigos. </ i>
 
 291
 00:25:11,793 --> 00:25:15,629
-Non votre rue d'habitude difficile
-ou pirate ivre.
+¿No es su calle habitual dura
+o borracho pirata.
 
 292
 00:25:15,897 --> 00:25:19,032
-Celui-ci est un chevalier Westerosi
+Éste es un caballero de Poniente
 
 293
 00:25:19,400 --> 00:25:23,336
-à partir d'une maison ancienne
-formé à l'épée et la lance.
+de una casa antigua
+entrenado en la espada y la lanza.
 
 294
 00:25:23,638 --> 00:25:25,906
-Il a combattu à côté
-le roi de cerf Robert
+Luchó al lado
+el rey ciervo Robert
 
 295
 00:25:26,206 --> 00:25:27,741
-de l'autre côté
-de la mer étroite.
+en el otro extremo
+del Mar Angosto.
 
 296
 00:25:28,175 --> 00:25:31,010
-Il était le premier à travers la brèche
-pendant le siège de Spike,
+Fue primero a través de la violación
+durante el cerco de Spike,
 
 297
 00:25:31,345 --> 00:25:34,480
-abattage 50 hommes
-avec son épée flamboyante.
+masacrando 50 hombres
+con su espada de fuego.
 
 298
 00:25:34,848 --> 00:25:38,617
-Il a tué la grande Khal
-Drogo en combat singulier.
+Mató a la gran Khal
+Drogo en combate singular.
 
 299
 00:25:38,852 --> 00:25:40,987
-Trahi par sa femme,
+Traicionado por su mujer,
 
 300
 00:25:41,355 --> 00:25:44,590
-il se vendu en esclavage
-à rembourser ses dettes.
+vendió como esclavo
+para pagar sus deudas.
 
 301
 00:25:45,025 --> 00:25:48,527
 <i>- Bidding begins at 12 gold honors.
-- (Mumurs de foule) </ i>
+- (Mumurs multitud) </ i>
 
 302
 00:25:48,762 --> 00:25:51,997
 13.
-Dois-je 14?
+¿Tengo 14?
 
 303
 00:25:52,231 --> 00:25:55,968
@@ -1357,7 +1357,7 @@ Dois-je 14?
 
 304
 00:25:56,202 --> 00:25:59,338
-Dois-je entendre 16?
+¿Escucho 16?
 16?
 
 305
@@ -1366,96 +1366,96 @@ Dois-je entendre 16?
 
 306
 00:26:01,374 --> 00:26:02,675
-Vendu.
+Vendido.
 
 307
 00:26:12,385 --> 00:26:15,020
-Attendez! Vous avez
-me acheter ainsi.
+¡Espera! Tienes
+me compra así.
 
 308
 00:26:15,188 --> 00:26:16,588
-Pourquoi?
+¿Por qué?
 
 309
 00:26:17,590 --> 00:26:19,124
-Nous sommes une équipe.
+Somos un equipo.
 
 310
 00:26:19,392 --> 00:26:20,859
-Je suis un grand combattant, aussi.
+Yo soy un gran luchador, también.
 
 311
 00:26:21,060 --> 00:26:24,028
-(Rire)
+(Risas)
 
 312
 00:26:24,363 --> 00:26:26,898
-Il est drôle.
-Vous devez lui donner cela.
+Es divertido.
+Tienes que darle eso.
 
 313
 00:26:27,099 --> 00:26:29,801
-(Rire)
+(Risas)
 
 314
 00:26:29,969 --> 00:26:31,268
-(grognements)
+(gruñidos)
 
 315
 00:26:31,570 --> 00:26:35,039
-- (Grognements)
-- (Rire continue)
+- (Gruñidos)
+- (Sigue riendo)
 
 316
 00:26:36,709 --> 00:26:40,444
-(Grognements, cris)
+(Gruñidos, gritos)
 
 317
 00:26:53,992 --> 00:26:56,660
-Vous avez raison, il est drôle.
+Tienes razón, es divertido.
 
 318
 00:27:04,101 --> 00:27:05,502
-Merci, mon seigneur.
-Merci.
+Gracias, mi señor.
+Gracias.
 
 319
 00:27:05,670 --> 00:27:06,870
-Oui.
+Sí.
 
 320
 00:27:07,104 --> 00:27:09,105
-Mon seigneur, si vous me permettez.
+Mi señor, si me lo permite.
 
 321
 00:27:09,440 --> 00:27:11,341
-Je l'ai entendu Meereen
-est devenue une ville libre.
+He oído Mereen
+se ha convertido en una ciudad libre.
 
 322
 00:27:11,809 --> 00:27:14,729
-Vous pourriez avoir des ennuis si vous essayez
-pour lutter contre les esclaves dans les stands de combat.
+Usted puede tener problemas si intenta
+para luchar contra los esclavos en las arenas de combate.
 
 323
 00:27:14,745 --> 00:27:17,065
-Maintenant, si vous étiez à combattre libéré
-hommes qui serait payé un salaire ...
+Ahora, si usted fuera a la lucha liberado
+hombres que habían pagarse un salario ...
 
 324
 00:27:20,284 --> 00:27:22,052
-Il ya vos salaires, homme drôle.
+Hay sus salarios, hombre divertido.
 
 325
 00:27:22,353 --> 00:27:24,687
-Devrait durer le reste
-de votre vie.
+Debe durar el resto
+de tu vida.
 
 326
 00:27:26,357 --> 00:27:29,158
-Malko: Ce sont des guerriers
-les mains, pas un de servante.
+Malko: Son guerrero
+manos, no una de sirvienta.
 
 327
 00:27:29,359 --> 00:27:30,960
@@ -1463,225 +1463,225 @@ les mains, pas un de servante.
 
 328
 00:27:31,161 --> 00:27:33,162
-(rires)
+(risas)
 
 329
 00:27:35,432 --> 00:27:38,434
-Combien de temps avant que le roi de
-Meereen vient réclamer mon oreiller?
+¿Cuánto tiempo antes de que el Rey de
+Mereen viene a reclamar mi almohada?
 
 330
 00:27:38,669 --> 00:27:40,235
-Ne soyez pas ridicule.
+No seas ridículo.
 
 331
 00:27:40,537 --> 00:27:44,306
-Mon mariage à Hizdahr
-est politique.
+Mi matrimonio con Hizdahr
+es política.
 
 332
 00:27:44,640 --> 00:27:46,675
-Je pense qu'il est assez intelligent
-pour comprendre cela.
+Creo que es lo suficientemente inteligente
+para entender eso.
 
 333
 00:27:48,778 --> 00:27:50,738
-Je pense que les Fils de la
-Harpie ont cessé de tuer
+Creo que los Hijos de la
+Arpía han dejado de matar
 
 334
 00:27:50,780 --> 00:27:52,714
-parce que leur chef
-a été fait roi.
+porque su líder
+se hizo rey.
 
 335
 00:27:55,718 --> 00:27:57,919
-Êtes-vous jaloux?
+Estas celoso?
 
 336
 00:27:58,321 --> 00:28:00,556
-Vous pensez que je suis assez petite
-de dire du mal d'un homme
+¿Crees que soy lo suficientemente pequeña
+hablar mal de un hombre
 
 337
 00:28:00,890 --> 00:28:02,891
-juste parce qu'il
-représente la concurrence?
+sólo porque él
+representa la competencia?
 
 338
 00:28:03,059 --> 00:28:04,926
-Je fais.
+Lo hago.
 
 339
 00:28:05,127 --> 00:28:06,527
-(rires)
+(risas)
 
 340
 00:28:06,729 --> 00:28:08,296
-Vous avez raison.
+Tienes razón.
 
 341
 00:28:08,564 --> 00:28:11,365
-Mes motivations
-sont entièrement impur.
+Mis motivaciones
+son totalmente impuro.
 
 342
 00:28:20,242 --> 00:28:21,875
-Ne pas me faire de mal.
+No me hace mal.
 
 343
 00:28:26,681 --> 00:28:30,451
-Vous me dit vous-même, je ne peux pas combattre
-ennemis de l'intérieur et en dehors.
+Tú mismo me dijiste que no puedo luchar
+enemigos dentro y fuera.
 
 344
 00:28:30,752 --> 00:28:32,987
-Alors, quand les ennemis sans
-venir frapper,
+Así que cuando los enemigos sin
+venir a llamar,
 
 345
 00:28:33,322 --> 00:28:35,055
-Je dois la ville
-de Meereen derrière moi.
+Necesito la ciudad
+de Meereen detrás de mí.
 
 346
 00:28:35,256 --> 00:28:37,691
-Je n'ai pas le choix.
+No tengo otra opción.
 
 347
 00:28:37,926 --> 00:28:39,292
-Chacun a le choix.
+Todo el mundo tiene una elección.
 
 348
 00:28:39,560 --> 00:28:40,961
-Même les esclaves
-avoir le choix ...
+Incluso los esclavos
+tener una opción ...
 
 349
 00:28:41,195 --> 00:28:42,796
-La mort ou l'esclavage.
+La muerte o la esclavitud.
 
 350
 00:28:43,064 --> 00:28:45,699
-Alors qu'est-ce que je peux faire, hmm?
+Entonces, ¿qué más puedo hacer, ¿eh?
 
 351
 00:28:47,702 --> 00:28:49,703
-Épouse-moi à la place.
+Cásate conmigo en su lugar.
 
 352
 00:28:51,272 --> 00:28:55,575
-Même si je voulais faire
-une telle chose déconseillé,
+Incluso si lo que quería hacer
+una cosa tan poco aconsejable,
 
 353
 00:28:55,776 --> 00:28:57,144
-Je ne pouvais pas.
+No pude.
 
 354
 00:28:57,345 --> 00:28:58,945
-Pourquoi pas?
+Por qué no?
 
 355
 00:28:59,280 --> 00:29:00,947
-Vous êtes la reine.
-Vous pouvez faire ce que vous aimez.
+Usted es la reina.
+Puedes hacer lo que te gusta.
 
 356
 00:29:03,384 --> 00:29:06,819
-Non, je ne peux pas.
+No puedo.
 
 357
 00:29:07,220 --> 00:29:09,622
-Ensuite, vous êtes la seule personne
-dans Meereen qui est pas libre.
+Entonces usted es la única persona
+en Meereen que no es gratis.
 
 358
 00:29:21,068 --> 00:29:25,304
-Et je sais que je suis ici pour servir
-ma reine et ne pas donner des conseils,
+Y sé que estoy aquí para servir
+mi reina y no da consejos,
 
 359
 00:29:25,605 --> 00:29:27,606
-mais ce que je peux faire
-une autre suggestion?
+pero puedo hacer
+una sugerencia más?
 
 360
 00:29:31,711 --> 00:29:33,712
-Bien sûr.
+Por supuesto.
 
 361
 00:29:36,249 --> 00:29:38,784
-Le jour des grands jeux,
+En el día de los grandes juegos,
 
 362
 00:29:39,152 --> 00:29:41,653
-rassembler tous les Grands
-Maîtres et Wise Maîtres
+reunir toda la Gran
+Maestros y Sabios Maestros
 
 363
 00:29:41,954 --> 00:29:44,890
-et digne Maîtres vous pouvez trouver
+y Digno Masters usted puede encontrar
 
 364
 00:29:45,158 --> 00:29:46,624
-et les abattre tous.
+y la masacre a todos.
 
 365
 00:29:50,429 --> 00:29:53,765
-Je suis une reine, pas un boucher.
+Yo soy una reina, no un carnicero.
 
 366
 00:29:58,737 --> 00:30:01,673
-Tous les dirigeants sont soit
-bouchers ou de la viande.
+Todos los gobernantes son o bien
+carniceros o carne.
 
 367
 00:30:10,816 --> 00:30:13,984
-Vous y. Où en serions-
-Je trouve la Haute Septon
+Tú allí. ¿Dónde lo haría
+Me parece que el Alto Septon
 
 368
 00:30:14,419 --> 00:30:17,354
-ou High Sparrow ou quoi
-sanglante nom de fou qu'il a?
+o de alta Sparrow o lo que sea
+nombre tonto sangriento que tiene?
 
 369
 00:30:17,756 --> 00:30:21,192
-Il est pas aussi bon que d'un nom
-Reine des Epines, je vais admettre.
+No es un nombre tan bueno como
+Reina de Espinas, admitiré.
 
 370
 00:30:22,861 --> 00:30:24,561
-Vous devriez avoir la décence
+Usted debe tener la decencia
 
 371
 00:30:24,863 --> 00:30:26,931
-de se lever quand
-vous parlez à une dame.
+ponerse de pie cuando
+usted habla a una dama.
 
 372
 00:30:27,332 --> 00:30:29,799
-Vous devriez avoir la décence
-se mettre à genoux devant les dieux.
+Usted debe tener la decencia
+a arrodillarse ante los dioses.
 
 373
 00:30:30,101 --> 00:30:31,422
-Ne pas se bagarrer avec moi,
-petit bonhomme.
+No entrenar conmigo,
+hombrecito.
 
 374
 00:30:31,502 --> 00:30:34,404
-(gémissements)
+(gemidos)
 
 375
 00:30:34,672 --> 00:30:37,441
-Pour moi, ce sont les genoux.
+Para mí, es de las rodillas.
 
 376
 00:30:37,642 --> 00:30:39,376
-- Vous?
-- hanches.
+- Usted?
+- Medida de la cadera.
 
 377
 00:30:39,544 --> 00:30:41,445
@@ -1689,143 +1689,143 @@ Ah.
 
 378
 00:30:41,779 --> 00:30:45,449
-Un homme du peuple.
-Est-ce que votre jeu?
+Un hombre del pueblo.
+¿Eso es su juego?
 
 379
 00:30:45,783 --> 00:30:49,085
-Il est un vieux jeu.
-Terne et peu convaincant.
+Es un viejo juego.
+Dull y poco convincente.
 
 380
 00:30:49,319 --> 00:30:51,454
-Un homme du peuple
+Un hombre del pueblo
 
 381
 00:30:51,789 --> 00:30:54,124
-qui à fait de Cersei
-sale travail pour elle.
+quién hace Cersei de
+trabajo sucio para ella.
 
 382
 00:30:55,559 --> 00:30:57,227
-Les personnes toujours
-faire le sale boulot.
+La gente siempre
+hacer el trabajo sucio.
 
 383
 00:30:57,661 --> 00:31:00,163
-Epargnez-moi les homélies. Je peux
-sentir une fraude d'un mile de distance.
+Ahórrate las homilías. Puedo
+oler un fraude de una milla de distancia.
 
 384
 00:31:00,364 --> 00:31:01,631
-Talents utiles.
+Talento útil.
 
 385
 00:31:01,966 --> 00:31:04,600
-Je suis ici pour mon petit-fils
-et petite-fille.
+Estoy aquí por mi nieto
+y nieta.
 
 386
 00:31:04,901 --> 00:31:07,136
-Votre petit-fils et petite-fille
+Su nieto y nieta
 
 387
 00:31:07,404 --> 00:31:10,439
-jura vœux sacrés et menti.
+juró votos sagrados y mentido.
 
 388
 00:31:10,707 --> 00:31:12,908
-Le Père nous tous les juges.
+El Padre nos juzga.
 
 389
 00:31:13,143 --> 00:31:15,278
-Fils de hauts seigneurs,
+Hijos de los altos señores,
 
 390
 00:31:15,512 --> 00:31:17,446
-fils de pêcheurs.
+hijos de los pescadores.
 
 391
 00:31:17,814 --> 00:31:20,715
-Si vous enfreignez ses lois,
-vous serez punis.
+Si usted rompe sus leyes,
+serás castigado.
 
 392
 00:31:21,985 --> 00:31:23,451
-Ne vous éloignez de moi.
+¿No te alejes de mí.
 
 393
 00:31:23,820 --> 00:31:25,487
-Vous ne donnez pas de commandes
-ici, Lady Olenna.
+Usted no da órdenes
+aquí, Lady Olenna.
 
 394
 00:31:25,721 --> 00:31:27,122
-Qu'est-ce que vous voulez?
+¿Qué es lo que quieres?
 
 395
 00:31:27,323 --> 00:31:29,224
-Or?
+Oro?
 
 396
 00:31:29,592 --> 00:31:32,194
-Je vais vous faire le plus riche
-septon qui ait jamais vécu.
+Voy a hacer que los más ricos
+septon que jamás haya vivido.
 
 397
 00:31:32,395 --> 00:31:33,561
-(rires)
+(risas)
 
 398
 00:31:33,763 --> 00:31:36,063
-Et ensuite?
+Entonces que?
 
 399
 00:31:36,365 --> 00:31:39,000
-Je imagine que ce
-est étrange pour vous.
+Me imagino que esto
+es extraño para usted.
 
 400
 00:31:39,335 --> 00:31:41,636
-Tout le monde vous rencontrez
-a un motif caché
+Todos los que conoces
+tiene un motivo oculto
 
 401
 00:31:42,004 --> 00:31:45,006
-et vous vous vantez
-sur renifler dehors.
+y te enorgulleces
+en oler a cabo.
 
 402
 00:31:45,341 --> 00:31:47,275
 <i>But I'm telling you
-une vérité simple. </ i>
+una simple verdad. </ i>
 
 403
 00:31:47,510 --> 00:31:49,711
-Je sers les dieux.
+Sirvo a los dioses.
 
 404
 00:31:49,945 --> 00:31:51,646
-Les dieux demandent justice.
+Los dioses exigen justicia.
 
 405
 00:31:51,947 --> 00:31:54,182
-Comment font-ils communiquent
-leurs demandes?
+¿Cómo se comunican
+sus demandas?
 
 406
 00:31:54,416 --> 00:31:55,950
-Par corbeau ou cheval?
+Por cuervo o caballo?
 
 407
 00:31:56,285 --> 00:31:58,986
-Par le texte sacré,
-"L'étoile à sept branches."
+Por el texto sagrado,
+"El siete puntas de la estrella."
 
 408
 00:31:59,288 --> 00:32:01,422
-Si vous ne l'avez pas
-dans votre bibliothèque,
+Si usted no tiene uno
+en su biblioteca,
 
 409
 00:32:01,690 --> 00:32:02,690
@@ -1833,110 +1833,110 @@ dans votre bibliothèque,
 
 410
 00:32:03,025 --> 00:32:05,259
-J'ai lu
-"L'étoile à sept branches."
+He leído
+"El siete puntas de la estrella."
 
 411
 00:32:05,727 --> 00:32:09,663
 <i>Then you'll remember the passages
-concernant la sodomie et de parjure. </ i>
+relativa a la sodomía y el perjurio. </ i>
 
 412
 00:32:09,964 --> 00:32:12,065
-Vos petits-enfants
-sera puni
+Sus nietos
+será castigado
 
 413
 00:32:12,467 --> 00:32:16,670
-de la même manière que n'importe qui
-qui brise les lois sacrées.
+de la misma manera como cualquiera
+que rompe las leyes sagradas.
 
 414
 00:32:16,971 --> 00:32:18,305
-La moitié des hommes,
-femmes et enfants
+La mitad de los hombres,
+mujeres y niños
 
 415
 00:32:18,640 --> 00:32:21,809
-dans cette ville faute
-briser les lois sacrées.
+en esta falta ciudad
+romper las leyes sagradas.
 
 416
 00:32:22,143 --> 00:32:25,145
-Vous vivez entre les meurtriers,
-voleurs et violeurs,
+Usted vive entre los asesinos,
+ladrones y violadores,
 
 417
 00:32:25,412 --> 00:32:27,113
-et pourtant vous punissez Loras
+y sin embargo, se castiga Loras
 
 418
 00:32:27,414 --> 00:32:30,683
-pour certains shagging ponce parfumée
+para follar algunos ponce perfumada
 
 419
 00:32:30,985 --> 00:32:32,886
-et Margaery pour la défense
-son frère?
+y Margaery por defender
+su hermano?
 
 420
 00:32:33,287 --> 00:32:37,324
-Oui. Les lois des dieux doivent
-être appliquée à tous également.
+Sí. Las leyes de los dioses debe
+aplicarse a todos por igual.
 
 421
 00:32:37,624 --> 00:32:40,060
-Si il est l'égalité
-vous voulez, de sorte que ce soit.
+Si se trata de la igualdad
+quiere, que así sea.
 
 422
 00:32:40,461 --> 00:32:44,063
-Lorsque Maison Tyrell arrête d'envoyer des
-nos cultures à la capitale,
+Cuando la Casa Tyrell deja de enviar
+nuestros cultivos a la capital,
 
 423
 00:32:44,297 --> 00:32:46,298
-tout le monde ici va mourir de faim.
+aquí todo el mundo va a morir de hambre.
 
 424
 00:32:46,667 --> 00:32:49,369
-Et je ferai en sorte que la
-savoir faim qui est à blâmer.
+Y me aseguraré de que el
+know hambre quién tiene la culpa.
 
 425
 00:32:49,570 --> 00:32:52,338
-(rires)
+(risas)
 
 426
 00:32:52,673 --> 00:32:55,341
-Avez-vous déjà semé la
-champ, Lady Olenna?
+¿Alguna vez ha sembrado la
+campo, Lady Olenna?
 
 427
 00:32:57,811 --> 00:33:00,612
-Avez-vous jamais récolté le grain?
+¿Alguna vez ha cosechado el grano?
 
 428
 00:33:00,914 --> 00:33:02,447
-Quelqu'un at-il dans la Maison Tyrell?
+¿Alguien en la Casa Tyrell?
 
 429
 00:33:03,950 --> 00:33:05,617
-Une durée de vie de la richesse et de la puissance
+Toda una vida de riqueza y el poder
 
 430
 00:33:05,919 --> 00:33:07,452
-vous a laissé aveugle d'un œil.
+ha dejado ciego de un ojo.
 
 431
 00:33:09,756 --> 00:33:13,458
-Vous êtes quelques-uns,
-nous sommes la majorité.
+Usted es de los pocos,
+somos muchos.
 
 432
 00:33:15,361 --> 00:33:18,764
-Et lorsque le nombre
-cesser de craindre quelques-uns ...
+Y cuando los muchos
+dejar de temer a los pocos ...
 
 433
 00:33:30,676 --> 00:33:32,843
@@ -1944,209 +1944,209 @@ cesser de craindre quelques-uns ...
 
 434
 00:33:33,045 --> 00:33:35,613
-Lady Olenna.
+Señora Olenna.
 
 435
 00:33:46,725 --> 00:33:48,405
-Cersei: Starving
-ne fera pas les choses
+Cersei: Morirse de hambre
+no hará las cosas
 
 436
 00:33:48,660 --> 00:33:50,828
-mieux pour elle, mon amour.
+nada mejor para ella, mi amor.
 
 437
 00:33:53,498 --> 00:33:55,299
-Elle est dans une cellule de prison
+Ella está en una celda de la prisión
 
 438
 00:33:55,567 --> 00:33:58,335
-et il n'y a rien que je puisse faire.
+y no hay nada que pueda hacer.
 
 439
 00:34:01,706 --> 00:34:03,340
-Je suis le roi!
+Soy el rey!
 
 440
 00:34:03,742 --> 00:34:06,676
-La reine est en prison et
-il n'y a rien que je peux faire!
+La reina está en la cárcel y
+no hay nada que puedo hacer!
 
 441
 00:34:21,091 --> 00:34:24,427
-Peu importe qui vous êtes,
+No importa quién eres,
 
 442
 00:34:24,762 --> 00:34:26,663
-peu importe la force
-vous êtes, tôt ou tard,
+no importa lo fuerte
+usted es, tarde o temprano,
 
 443
 00:34:27,030 --> 00:34:29,131
-vous devrez faire face à des circonstances
-au-delà de votre contrôle.
+te enfrentarás a las circunstancias
+más allá de su control.
 
 444
 00:34:29,500 --> 00:34:32,201
-Evénements vous ne pouviez pas
-éventuellement avoir anticipé
+Eventos que no podía
+posiblemente haber anticipado
 
 445
 00:34:32,503 --> 00:34:33,903
-ou empêchée même si vous aviez.
+o impedido incluso si usted tenía.
 
 446
 00:34:34,204 --> 00:34:37,006
-Vous ne pouvez pas blâmer
--vous destin.
+No se puede culpar
+a ti mismo por destino.
 
 447
 00:34:37,207 --> 00:34:39,575
-Ton père,
+Tu padre,
 
 448
 00:34:39,876 --> 00:34:41,310
-ton frère,
-votre grand-père ...
+su hermano,
+tu abuelo ...
 
 449
 00:34:41,711 --> 00:34:44,613
-Je suis la reine des Sept
-Royaumes et que pouvais-je faire?
+Yo era la reina de los Siete
+Reinos y ¿qué podía hacer?
 
 450
 00:34:44,914 --> 00:34:47,283
-Tenez-les comme ils
-quitté ce monde.
+Mantenga ellos, ya que
+dejado este mundo.
 
 451
 00:34:47,584 --> 00:34:49,251
-Kissed leurs têtes
-après qu'ils avaient disparu.
+Besó la cabeza
+después de que habían desaparecido.
 
 452
 00:34:49,519 --> 00:34:51,553
-Je vais appeler dans l'armée.
+Voy a llamar en el ejército.
 
 453
 00:34:51,788 --> 00:34:53,689
-Je vais ramener Sept
+Voy a tomar de nuevo el septiembre
 
 454
 00:34:53,957 --> 00:34:57,192
-et de tuer tous jusqu'au dernier d'entre eux.
+y matar hasta el último de ellos.
 
 455
 00:34:59,261 --> 00:35:01,530
-Je vais commencer une guerre si je dois.
+Voy a empezar una guerra, si tengo que hacerlo.
 
 456
 00:35:01,965 --> 00:35:05,133
-Vous savez aussi bien que moi qui le
-première victime de cette guerre serait.
+Sabes tan bien como yo que la
+primera víctima de esa guerra sería.
 
 457
 00:35:10,072 --> 00:35:12,073
-Je l'aime.
+La amo.
 
 458
 00:35:15,144 --> 00:35:17,212
-Je l'aime ...
+La amo ...
 
 459
 00:35:19,715 --> 00:35:21,116
-et je ne peux pas l'aider.
+y no puedo ayudarla.
 
 460
 00:35:37,232 --> 00:35:38,633
-Nous devons être forts
-pour ceux que nous aimons.
+Debemos ser fuertes
+para aquellos que amamos.
 
 461
 00:35:38,934 --> 00:35:40,935
-Nous ne pouvons pas céder au désespoir.
+No podemos ceder a la desesperación.
 
 462
 00:35:41,236 --> 00:35:44,004
-Je parlerai
-avec le Haut Sparrow.
+Hablaré
+con el Alto Sparrow.
 
 463
 00:35:44,272 --> 00:35:45,572
-Il doit y avoir
-quelque chose qu'il ...
+Debe haber
+algo que él ...
 
 464
 00:35:45,907 --> 00:35:48,008
-Permettez-moi de lui parler
-en votre nom.
+Déjame hablar con él
+en su nombre.
 
 465
 00:35:48,476 --> 00:35:51,811
-Le roi ne peut pas se salir
-négocier avec un fanatique non lavés.
+El rey no puede mancillar a sí mismo
+negociar con un fanático sin lavar.
 
 466
 00:35:53,348 --> 00:35:55,215
-Vous allez essayer de l'aider?
+Va a tratar de ayudarla?
 
 467
 00:35:55,650 --> 00:35:58,652
-Je ferai tout ce que je peux pour gagner
-sa liberté et de son frère.
+Haré todo lo que pueda para ganar
+su libertad y de su hermano.
 
 468
 00:35:58,986 --> 00:36:01,688
-Votre bonheur est tout
-Je veux, dans ce monde.
+Su felicidad es todo
+Quiero en este mundo.
 
 469
 00:36:02,957 --> 00:36:05,759
-- Je sais.
-- Non, tu ne.
+- Lo sé.
+- No tú no.
 
 470
 00:36:09,530 --> 00:36:11,197
-Vous ne pouvez pas peut-être.
+Usted no puede posiblemente.
 
 471
 00:36:13,333 --> 00:36:15,802
-Pas jusqu'à ce que vous avez
-de vos propres enfants.
+No hasta que tenga
+hijos propios.
 
 472
 00:36:16,103 --> 00:36:18,504
-Je ferais n'importe quoi pour toi.
+Haría cualquier cosa por ti.
 
 473
 00:36:20,107 --> 00:36:22,341
-Tout pour vous empêcher de nuire.
+Cualquier cosa que te guarde de todo mal.
 
 474
 00:36:25,011 --> 00:36:27,012
-Je voudrais graver villes
-au sol.
+Me gustaría quemar ciudades
+al suelo.
 
 475
 00:36:28,815 --> 00:36:32,085
-Vous êtes tout ce qui compte.
+Usted es todo lo que importa.
 
 476
 00:36:32,319 --> 00:36:36,055
-Vous et votre sœur.
+Usted y su hermana.
 
 477
 00:36:36,355 --> 00:36:39,124
-Dès l'instant où vous êtes venu
-dans ce monde.
+Desde el momento en que viniste
+a este mundo.
 
 478
 00:36:39,325 --> 00:36:41,627
-Mon garçon.
+Mi hijo.
 
 479
 00:36:44,064 --> 00:36:46,065
-Mon seul garçon.
+Mi único chico.
 
 480
 00:36:56,476 --> 00:36:58,243
@@ -2154,212 +2154,212 @@ Mon seul garçon.
 
 481
 00:37:01,180 --> 00:37:02,680
-Espoirs prince Doran
-Cela satisfait
+Esperanzas príncipe Doran
+Esto satisface
 
 482
 00:37:03,048 --> 00:37:05,417
-vos préoccupations au sujet de la
-le bien-être de princesse.
+sus preocupaciones acerca de la
+el bienestar de la princesa.
 
 483
 00:37:12,658 --> 00:37:14,425
-Vous avez cherché différente
-quand je suis parti.
+Te veías diferente
+cuando me fui.
 
 484
 00:37:14,660 --> 00:37:16,728
-Vous avez eu plus de cheveux.
+Usted tenía más pelo.
 
 485
 00:37:16,929 --> 00:37:19,864
-Et plus de mains.
+Y más manos.
 
 486
 00:37:20,198 --> 00:37:22,500
-- Comment est Trystane?
-- Il va être tout droit.
+- ¿Cómo está Trystane?
+- Se pondrá bien.
 
 487
 00:37:22,734 --> 00:37:23,734
-Je suis désolé pour ça.
+Lo siento por eso.
 
 488
 00:37:24,035 --> 00:37:25,515
-Ça ne devait pas
-se passer de cette façon.
+No se suponía
+a suceder de esa manera.
 
 489
 00:37:25,537 --> 00:37:27,070
-Pourquoi cela se produit à tous?
+Por qué está sucediendo en absoluto?
 
 490
 00:37:28,840 --> 00:37:31,074
-Est inquiet vous votre mère.
+Del preocupada por ti Tu madre.
 
 491
 00:37:31,343 --> 00:37:33,511
-Des menaces ont été faites.
+Se han hecho amenazas.
 
 492
 00:37:33,778 --> 00:37:35,045
-Dorne est trop dangereux pour vous.
+Dorne es demasiado peligroso para ti.
 
 493
 00:37:35,413 --> 00:37:37,481
-- Je suis venu pour vous ramener à la maison.
-- C'est ma maison.
+- He venido a llevarte a casa.
+- Esta es mi casa.
 
 494
 00:37:37,749 --> 00:37:39,149
-Cela a été ma maison pendant des années.
+Esta ha sido mi casa durante años.
 
 495
 00:37:39,517 --> 00:37:41,451
-Je ne voulais pas venir ici,
-mais elle me l'a dit.
+Yo no quería venir aquí,
+pero ella me dijo que.
 
 496
 00:37:41,686 --> 00:37:42,686
-Je l'ai fait ce qu'elle a dit.
+Hice lo que me dijo.
 
 497
 00:37:43,021 --> 00:37:45,287
-Je l'ai fait mon devoir et maintenant
-elle me forçant à revenir?
+Yo cumplí con mi deber y ahora
+ella me obligó a volver?
 
 498
 00:37:45,689 --> 00:37:48,423
-Il est pour votre propre bien.
-Ce sont des questions complexes.
+Es por tu propio bien.
+Estos son asuntos complicados.
 
 499
 00:37:48,792 --> 00:37:50,893
 <i>No, it's not complicated at all.
-Il est simple. </ I>
+Es muy sencillo. </ I>
 
 500
 00:37:51,227 --> 00:37:53,195
-I love Trystane,
-Je vais l'épouser,
+Me encanta Trystane,
+Voy a casarse con él,
 
 501
 00:37:53,463 --> 00:37:54,764
-et nous restons ici.
+y nos vamos a quedar aquí.
 
 502
 00:37:55,098 --> 00:37:56,532
-- Je ne comprends pas.
-- Bien sûr, vous ne le faites pas.
+- No lo entiendo.
+- Por supuesto que no.
 
 503
 00:37:56,767 --> 00:37:58,734
-Vous ne me connaissez pas.
+Usted no me conoce.
 
 504
 00:38:07,410 --> 00:38:11,012
-Bronn: <i> ♪ Brothers, O frères,
-mes jours ici sont faites ♪ </ i>
+Bronn: <i> ♪ hermanos, hermanos de O,
+mis días aquí se hacen ♪ </ i>
 
 505
 00:38:11,314 --> 00:38:15,850
 <i>♪ The Dornishman's
-pris ma vie ♪ </ i>
+tomado mi vida ♪ </ i>
 
 506
 00:38:16,118 --> 00:38:18,086
-♪ Mais qu'importe ♪
+♪ Pero ¿qué importa ♪
 
 507
 00:38:18,320 --> 00:38:20,555
-♪ Pour tous les hommes doit mourir
+♪ Para todos los hombres deben morir
 
 508
 00:38:20,890 --> 00:38:24,258
-♪ Et je l'ai goûté
-la femme du Dornishman ♪
+♪ Y yo he probado
+la esposa del dorniense ♪
 
 509
 00:38:24,626 --> 00:38:30,198
-♪ je l'ai, je l'ai goûté
-la femme du Dornishman. ♪
+♪ tengo, he probado
+la esposa del dorniense. ♪
 
 510
 00:38:30,399 --> 00:38:32,600
-(Applaudissements)
+(Aplausos)
 
 511
 00:38:32,835 --> 00:38:35,703
-Il a une bonne voix.
+Él tiene una buena voz.
 
 512
 00:38:35,970 --> 00:38:37,505
-Nous sommes chanceux, il est un chanteur.
+Tenemos suerte de que él es un cantante.
 
 513
 00:38:37,906 --> 00:38:40,007
-Si il était un combattant, nous
-aurait été en difficulté.
+Si fuera un luchador, que
+podría haber estado en problemas.
 
 514
 00:38:40,309 --> 00:38:43,244
-Il est contre mon code
-de blesser une femme.
+Va en contra de mi código
+hacer daño a una mujer.
 
 515
 00:38:43,645 --> 00:38:46,280
-Il est étonnant de voir combien les hommes nous
-beat semblent avoir ce code.
+Es increíble la cantidad de hombres que
+bata la parecen tener este código.
 
 516
 00:38:46,582 --> 00:38:48,015
-Je ne dirais pas que vous me battre.
+Yo no diría que me golpearon.
 
 517
 00:38:48,250 --> 00:38:49,750
-Comment va votre bras?
+¿Cómo está tu brazo?
 
 518
 00:38:49,951 --> 00:38:51,752
-Magnifique.
+Maravilloso.
 
 519
 00:38:52,153 --> 00:38:54,822
-Ne se sentent pas le droit de quitter
-Dorne sans une nouvelle cicatrice.
+No me sentiría derecho a salir
+Dorne sin una nueva cicatriz.
 
 520
 00:38:55,156 --> 00:38:56,957
-(Se moque)
-Vous pensez que vous êtes laissant Dorne?
+(Burla)
+¿Crees que estás dejando Dorne?
 
 521
 00:38:57,158 --> 00:38:59,026
-Pas très pressé.
+Sin mucha prisa.
 
 522
 00:38:59,460 --> 00:39:01,895
-Femmes sont les plus Dornish
-belles femmes du monde.
+Las mujeres son las más Dorne
+mujeres hermosas en el mundo.
 
 523
 00:39:02,097 --> 00:39:03,163
-Merci.
+Gracias.
 
 524
 00:39:03,497 --> 00:39:06,366
-Je l'ai dit les femmes Dornish.
-Je ne vous dis.
+Dije mujeres de Dorne.
+Yo no te digo.
 
 525
 00:39:09,303 --> 00:39:11,638
-Je ne suis pas le plus beau
-femme que vous avez jamais vu?
+Yo no soy la más bella
+mujer que has visto?
 
 526
 00:39:13,474 --> 00:39:14,795
-Bronn: <i> Je l'ai vu
-un bon nombre de femmes </ i>
+Bronn: <i> que he visto
+un buen número de mujeres </ i>
 
 527
 00:39:14,942 --> 00:39:15,982
@@ -2367,52 +2367,52 @@ un bon nombre de femmes </ i>
 
 528
 00:39:16,210 --> 00:39:19,546
-Nommez une plus belle
-que je suis.
+Nombre uno más hermoso
+que yo.
 
 529
 00:39:21,682 --> 00:39:24,751
-Eh bien, maintenant, dans le débarquement du roi,
+Bueno, ahora, en Desembarco del Rey,
 
 530
 00:39:25,052 --> 00:39:28,354
 <i>there was an absolutely
-magnifique ... </ i>
+precioso ... </ i>
 
 531
 00:39:32,793 --> 00:39:34,026
-Il y avait un quoi?
+Hubo un qué?
 
 532
 00:39:36,730 --> 00:39:39,498
-Dans Kings Landing,
-tu disais?
+En Desembarco del Rey,
+estabas diciendo?
 
 533
 00:39:39,666 --> 00:39:41,433
-Étais-Je?
+Era yo?
 
 534
 00:39:41,801 --> 00:39:44,603
-Il y avait une femme
-plus belle que je suis.
+Había una mujer
+más bella que yo.
 
 535
 00:39:44,804 --> 00:39:46,372
-Était là?
+Estaba allí?
 
 536
 00:39:46,673 --> 00:39:48,574
-Ma mémoire est pas
-ce qu'il était auparavant.
+Mi memoria no es
+lo que era antes.
 
 537
 00:39:52,245 --> 00:39:53,612
-Comment va votre bras maintenant?
+¿Cómo está tu brazo ahora?
 
 538
 00:39:53,880 --> 00:39:55,381
-Vous semblez préoccupé avec elle.
+Pareces preocupado con ella.
 
 539
 00:39:55,649 --> 00:39:57,482
@@ -2420,11 +2420,11 @@ Vous semblez préoccupé avec elle.
 
 540
 00:39:57,683 --> 00:39:59,918
-(rires)
+(risas)
 
 541
 00:40:06,192 --> 00:40:09,060
-Et que diriez-vous de votre tête?
+¿Y qué tal tu cabeza?
 
 542
 00:40:13,699 --> 00:40:15,667
@@ -2432,30 +2432,30 @@ Et que diriez-vous de votre tête?
 
 543
 00:40:15,867 --> 00:40:18,002
-Ma tête?
+Mi cabeza?
 
 544
 00:40:18,370 --> 00:40:20,838
-Vous ne voulez même pas
-savoir ce qui se passe dans ...
+Ni siquiera quiere
+saber lo que está pasando en ...
 
 545
 00:40:23,041 --> 00:40:26,010
-(Haletant)
+(Respirando con dificultad)
 
 546
 00:40:31,249 --> 00:40:33,217
-Votre nez saigne.
+Su nariz está sangrando.
 
 547
 00:40:36,421 --> 00:40:38,789
-Ce n'est rien.
-Il est l'air sec.
+No es nada.
+Es el aire seco.
 
 548
 00:40:42,127 --> 00:40:46,530
-Mon poignard a été revêtue avec un
-pommade spéciale de Asshai.
+Mi daga se revistió con una
+ungüento especial de Asshai.
 
 549
 00:40:46,864 --> 00:40:49,098
@@ -2463,241 +2463,241 @@ pommade spéciale de Asshai.
 
 550
 00:40:49,367 --> 00:40:51,335
-Il faut du temps pour travailler,
+Se necesita tiempo para trabajar,
 
 551
 00:40:51,703 --> 00:40:55,439
-mais si une seule goutte
-entre en contact avec la peau,
+pero si una sola gota
+hace contacto con la piel,
 
 552
 00:40:55,606 --> 00:40:56,606
-mort.
+muerte.
 
 553
 00:41:05,049 --> 00:41:07,150
-Le seul antidote.
+El único antídoto.
 
 554
 00:41:12,223 --> 00:41:14,490
-Qui est la plus belle
-femme dans le monde?
+¿Quién es la más bella
+mujer en el mundo?
 
 555
 00:41:15,926 --> 00:41:17,160
-(Silence) Vous.
+(En voz baja) Usted.
 
 556
 00:41:18,462 --> 00:41:20,929
-Désolé? Qui?
+Lo sentimos? Quien?
 
 557
 00:41:22,833 --> 00:41:25,468
-Vous.
+Usted.
 
 558
 00:41:25,669 --> 00:41:27,436
-Ne pas le laisser tomber.
+No lo deje caer.
 
 559
 00:41:37,947 --> 00:41:41,116
-(Halètement)
+(Jadeo)
 
 560
 00:41:41,450 --> 00:41:44,086
-Je pense que vous êtes
-très beau ainsi.
+Creo que eres
+muy guapo también.
 
 561
 00:42:29,030 --> 00:42:31,498
-- Je suis désolé pour l'environnement local.
-- Non, vous n'êtes pas.
+- Siento lo de la configuración regional.
+- No, no lo eres.
 
 562
 00:42:34,201 --> 00:42:36,102
-Il se sentait comme l'endroit le plus sûr.
+Se sentía como el lugar más seguro.
 
 563
 00:42:36,370 --> 00:42:38,338
-Pas pour votre clientèle, clairement.
+No para su clientela, con claridad.
 
 564
 00:42:39,407 --> 00:42:41,642
-Il était un établissement
-pas comme les autres.
+Era un establecimiento
+como ningún otro.
 
 565
 00:42:43,210 --> 00:42:44,978
-La gamme pure
-des appétits comblés.
+La gama pura
+de los apetitos se ocuparon de.
 
 566
 00:42:45,246 --> 00:42:46,779
-Désirs qui ne existaient même
+Los deseos que ni siquiera existían
 
 567
 00:42:47,014 --> 00:42:49,782
-jusqu'à ce que nous les a inventés.
+hasta que los inventamos.
 
 568
 00:42:50,217 --> 00:42:52,986
-Vous avez toujours été assez impressionné
-avec vous-même, avez-vous pas?
+Siempre has sido bastante impresionado
+con uno mismo, ¿no es así?
 
 569
 00:42:54,388 --> 00:42:57,123
-Le passé est le passé.
+El pasado es el pasado.
 
 570
 00:42:57,491 --> 00:43:00,593
-L'avenir est tout
-qui est la peine de discuter.
+El futuro es todo
+que vale la pena discutir.
 
 571
 00:43:02,262 --> 00:43:03,729
-L'avenir de la Maison Tyrell.
+El futuro de la Casa Tyrell.
 
 572
 00:43:04,097 --> 00:43:06,532
-Ne faites pas semblant d'avoir
-aucun souci pour ma maison,
+No pretendo tener
+ninguna preocupación por mi casa,
 
 573
 00:43:06,767 --> 00:43:08,334
-mes petits-enfants ou moi.
+mis nietos o yo.
 
 574
 00:43:08,702 --> 00:43:11,036
-J'aurais dû savoir
-vous souhaitez revenir à la capitale
+Debería haber sabido
+que le regrese a la capital
 
 575
 00:43:11,371 --> 00:43:13,305
-dès que les choses
-commencé à aller mal.
+tan pronto como las cosas
+empezado a ir mal.
 
 576
 00:43:13,707 --> 00:43:15,627
-- Je vous promets ...
-- Je vous le promets, Seigneur Baelish,
+- Te lo prometo ...
+- Te lo prometo, Señor Baelish,
 
 577
 00:43:15,875 --> 00:43:17,742
-que nos destins sont rejoints.
+que nuestros destinos están unidos.
 
 578
 00:43:18,011 --> 00:43:19,578
-Ensemble, nous assassine un roi.
+Juntos hemos asesinado a un rey.
 
 579
 00:43:19,946 --> 00:43:23,248
-Si ma maison devrait tomber,
-Je ne veux rien avoir à cacher.
+Si mi casa debe caer,
+Voy a tener nada que ocultar.
 
 580
 00:43:24,617 --> 00:43:27,719
-Et si je dois répondre
-quelque accident
+Y si debo cumplir
+con algún accidente
 
 581
 00:43:28,054 --> 00:43:30,922
-ici, à votre cassé
-petit marché de chair,
+aquí en su quebrado
+pequeño mercado de la carne,
 
 582
 00:43:31,257 --> 00:43:34,325
-ils ne trouveront jamais même
-ce qui reste de vous.
+que ni siquiera encontrarán
+lo que queda de ti.
 
 583
 00:43:34,527 --> 00:43:36,995
-Alors ...
+Así que ...
 
 584
 00:43:37,262 --> 00:43:39,063
-niez-vous un rôle dans tout cela?
+Qué te niegas un papel en todo esto?
 
 585
 00:43:39,365 --> 00:43:42,266
-Cersei me convoqua
-à Kings Landing.
+Cersei me convocó
+a Desembarco del Rey.
 
 586
 00:43:42,535 --> 00:43:43,902
-Je ne osais pas lui refuser.
+No me atreví a niego ella.
 
 587
 00:43:44,136 --> 00:43:45,637
-Et qu'est-ce qu'elle veut?
+Y lo que quería?
 
 588
 00:43:45,972 --> 00:43:48,806
-Un morceau de l'information
-elle savait que je devais.
+Una pieza de información
+ella sabía que tenía.
 
 589
 00:43:49,108 --> 00:43:52,443
-Ni le silence
-ni mensonges étaient une option.
+Ni el silencio
+ni mentiras eran una opción.
 
 590
 00:43:52,744 --> 00:43:55,079
-Mais je dois d'autres informations
+Pero tengo otra información
 
 591
 00:43:55,314 --> 00:43:56,714
-dont elle ne connaît pas.
+de la que no se da cuenta.
 
 592
 00:43:58,617 --> 00:44:01,085
-Et comme vous le dites,
-nos intérêts sont alignés.
+Y como usted dice,
+nuestros intereses están alineados.
 
 593
 00:44:03,222 --> 00:44:04,955
-J'ai un cadeau pour toi.
+Tengo un regalo para ti.
 
 594
 00:44:05,156 --> 00:44:06,590
-Quel genre de cadeau?
+¿Qué tipo de regalo?
 
 595
 00:44:06,892 --> 00:44:09,927
-Le même type I a donné Cersei.
+El mismo tipo me dio Cersei.
 
 596
 00:44:10,161 --> 00:44:11,829
-Un beau jeune homme.
+Un hombre joven y guapo.
 
 597
 00:44:26,110 --> 00:44:28,478
-Yezzan: <i> Beaucoup digne
-combattants ont trouvé la mort </ i>
+Yezzan: <i> Muchos digna
+combatientes han muerto </ i>
 
 598
 00:44:28,812 --> 00:44:30,914
 <i>trying to make it
-aux grands jeux. </ i>
+a los grandes partidos. </ i>
 
 599
 00:44:31,349 --> 00:44:34,084
-Lorsque la plupart d'entre vous l'écume sans valeur
-se joindre à eux dans la mort cet après-midi,
+Cuando la mayoría de ustedes escoria sin valor
+unirse a ellos en la muerte de esta tarde,
 
 600
 00:44:34,485 --> 00:44:37,354
-il représentera un important
-augmenter dans votre station.
+representará un significativo
+aumentando en su estación.
 
 601
 00:44:37,655 --> 00:44:40,289
-Mais si vous ne vous arrive
-pour triompher ici,
+Pero si lo hace pasar
+para triunfar aquí,
 
 602
 00:44:40,691 --> 00:44:43,092
 <i>you will fight at the Great
-Pit de Daznak se </ i>
+Foso de sí Daznak </ i>
 
 603
 00:44:43,326 --> 00:44:44,694
@@ -2705,22 +2705,22 @@ Pit de Daznak se </ i>
 
 604
 00:44:45,128 --> 00:44:49,065
-Donc, quoi qu'il arrive, les dieux
-ont souri à vous aujourd'hui.
+Así que pase lo que pase, los dioses
+han sonreído hoy.
 
 605
 00:44:49,499 --> 00:44:53,369
-Ceci est la journée de votre vie
-réellement commencer à dire quelque chose.
+Este es el día en sus vidas
+realmente empezar a significar algo.
 
 606
 00:44:55,705 --> 00:44:58,140
-Vous et vous.
-Vous.
+Tu y tu.
+Usted.
 
 607
 00:44:59,609 --> 00:45:01,444
-Toi aussi.
+Ustedes dos.
 
 608
 00:45:03,813 --> 00:45:05,147
@@ -2733,76 +2733,76 @@ Up.
 610
 00:45:08,452 --> 00:45:11,053
 <i>- Valar morghulis.
-- Mais:. Baleines dohaeris </ I>
+- Pero:. Ballenas dohaeris </ I>
 
 611
 00:45:11,287 --> 00:45:13,121
-Préparez vous.
+Prepárense.
 
 612
 00:45:25,401 --> 00:45:27,935
-Assis à travers la grande
-jeux seront assez mauvais.
+Sentado a través de la gran
+juegos serán bastante malo.
 
 613
 00:45:28,370 --> 00:45:30,972
-Depuis des générations, dans les jours
-menant à des grands jeux,
+Durante generaciones en los días
+previo a los grandes juegos,
 
 614
 00:45:31,307 --> 00:45:32,668
-il est d'usage,
-pour notre souverain
+ha sido costumbre
+para nuestro gobernante
 
 615
 00:45:32,841 --> 00:45:34,375
-pour faire les tours
-des stands inférieurs
+para hacer las rondas
+de los hoyos más bajos
 
 616
 00:45:34,743 --> 00:45:36,877
-à payer les combattants il
-l'honneur de sa présence.
+para pagar los combatientes allí
+el honor de su presencia.
 
 617
 00:45:40,816 --> 00:45:43,884
 <i>- (applause, cheering)
--. Déplacez-vous </ i>
+-. Mover mismos </ i>
 
 618
 00:45:50,191 --> 00:45:51,558
-Ta Grace.
+Tu Gracia.
 
 619
 00:45:51,760 --> 00:45:52,960
-Votre avenir grâce.
+Su futuro Gracia.
 
 620
 00:45:53,194 --> 00:45:55,395
-Vous nous avez tout honneur.
+Usted nos honra.
 
 621
 00:45:57,899 --> 00:46:00,067
-Rester là.
+Párese allí.
 
 622
 00:46:00,401 --> 00:46:02,702
-Tenez-vous droit.
-Voilà la putain reine.
+Parate derecho.
+Esa es la puta reina.
 
 623
 00:46:04,739 --> 00:46:06,340
-(Doucement) Nous nous battons et
-mourir pour ta gloire,
+(En voz baja) Luchamos y
+morir por tu gloria,
 
 624
 00:46:06,407 --> 00:46:08,275
-Ô reine glorieuse.
+Oh reina glorioso.
 
 625
 00:46:11,112 --> 00:46:13,180
-Tous: Nous nous battons et
-mourir pour ta gloire,
+Todos: Luchamos y
+morir por tu gloria,
 
 626
 00:46:13,414 --> 00:46:15,048
@@ -2814,8 +2814,8 @@ mourir pour ta gloire,
 
 628
 00:46:16,684 --> 00:46:19,052
-- Man: <i> Fight!
-- (Cliquetis métallique) </ i>
+- Hombre: <i> Lucha!
+- (Sonido metálico metal) </ i>
 
 629
 00:46:22,723 --> 00:46:24,557
@@ -2827,43 +2827,43 @@ mourir pour ta gloire,
 
 631
 00:46:43,377 --> 00:46:45,444
-(cris)
+(gritos)
 
 632
 00:47:02,128 --> 00:47:03,495
-(Criant)
+(Gritando)
 
 633
 00:47:17,577 --> 00:47:18,610
-Je pense que je l'ai vu assez.
+Creo que he visto suficiente.
 
 634
 00:47:18,911 --> 00:47:21,613
-Votre Grâce, il est une tradition
+Su Gracia, es una tradición
 
 635
 00:47:21,980 --> 00:47:24,949
-pour la reine de rester
-jusqu'à ce que le vainqueur a émergé.
+para la reina para quedarse
+hasta que ha salido victorioso.
 
 636
 00:47:25,350 --> 00:47:27,430
-Je ai sacrifié plus de
-assez pour vos traditions.
+He sacrificado más de
+suficiente para sus tradiciones.
 
 637
 00:47:32,191 --> 00:47:33,591
-Que faites-vous?
+Qué estás haciendo?
 
 638
 00:47:42,867 --> 00:47:44,201
-Attends ton tour,
-vous morceau de putain crasse.
+Espera tu turno,
+pedazo de mierda suciedad.
 
 639
 00:47:44,502 --> 00:47:45,668
-- (grognements)
-- <I> (foule acclamations) </ i>
+- (gruñidos)
+- <I> (multitud que lo vitoreaba) </ i>
 
 640
 00:47:57,514 --> 00:47:59,849
@@ -2871,11 +2871,11 @@ vous morceau de putain crasse.
 
 641
 00:48:06,857 --> 00:48:08,457
-(cris)
+(gritos)
 
 642
 00:48:13,696 --> 00:48:15,965
-(Grognements)
+(Gruñidos)
 
 643
 00:48:31,314 --> 00:48:32,847
@@ -2887,20 +2887,20 @@ vous morceau de putain crasse.
 
 645
 00:49:14,222 --> 00:49:15,689
-Sortez-le de ma vue.
+Sácalo de mi vista.
 
 646
 00:49:15,924 --> 00:49:17,958
-Khaleesi, s'il vous plaît.
+Khaleesi, por favor.
 
 647
 00:49:18,259 --> 00:49:20,393
-Je dois juste
-un moment de votre temps.
+Yo solo necesito
+un momento de su tiempo.
 
 648
 00:49:20,628 --> 00:49:22,262
-Je vous ai apporté un cadeau.
+Te he traído un regalo.
 
 649
 00:49:23,531 --> 00:49:25,031
@@ -2909,28 +2909,28 @@ Tyrion:
 
 650
 00:49:26,434 --> 00:49:28,868
-Il a.
+El tiene.
 
 651
 00:49:29,069 --> 00:49:30,737
-Qui êtes-vous?
+Quién eres?
 
 652
 00:49:32,072 --> 00:49:33,973
-Je suis le cadeau.
+Yo soy el regalo.
 
 653
 00:49:36,109 --> 00:49:38,778
 <i>It's a pleasure
-de vous rencontrer, Votre Grâce. </ i>
+conocerlo, Su Gracia. </ i>
 
 654
 00:49:39,947 --> 00:49:41,948
-Mon nom est Tyrion Lannister.
+Mi nombre es Tyrion Lannister.
 
 655
 00:49:57,464 --> 00:49:59,765
-(toux)
+(tos)
 
 656
 00:50:12,645 --> 00:50:14,846
@@ -2939,71 +2939,71 @@ Mon nom est Tyrion Lannister.
 657
 00:50:15,114 --> 00:50:16,848
 Cersei:
-Ceci est horrible.
+Esto es horrible.
 
 658
 00:50:17,083 --> 00:50:18,984
-Inacceptable.
+Inaceptable.
 
 659
 00:50:20,786 --> 00:50:22,988
-Sont-ils vous nourrissent
-assez au moins?
+¿Te están alimentando
+suficiente al menos?
 
 660
 00:50:24,357 --> 00:50:27,325
-Je vous ai apporté.
-Venaison.
+Yo te traje esto.
+La carne de venado.
 
 661
 00:50:27,526 --> 00:50:29,494
-Il est tout à fait bonne.
+Es bastante bueno.
 
 662
 00:50:32,664 --> 00:50:35,433
-Je l'avais moi-même pour le souper
-seulement la nuit dernière.
+Tuve yo mismo para la cena
+la noche anterior.
 
 663
 00:50:39,671 --> 00:50:42,473
-Nous avons tout fait à partir de la
-moment où ils ont pris votre frère.
+Hicimos todo lo que pudimos de la
+momento en que se llevaron a su hermano.
 
 664
 00:50:42,808 --> 00:50:44,609
-Dali est même allé
-à l'aéroport de Sept-même
+Dalí llegó incluso
+al propio septiembre
 
 665
 00:50:44,877 --> 00:50:47,011
-pour faire face à la Haute Sparrow.
+para hacer frente a la alta Sparrow.
 
 666
 00:50:47,345 --> 00:50:50,080
-Mais je crains que la Foi
-a laissé raison derrière.
+Pero me temo que la Fe
+ha dejado a razón detrás.
 
 667
 00:50:50,315 --> 00:50:53,150
-Je sais que vous l'avez fait.
+Sé que lo hiciste esto.
 
 668
 00:50:53,484 --> 00:50:56,987
-Nous faisons tous les efforts
-en votre nom.
+Estamos haciendo todo lo posible
+en su nombre.
 
 669
 00:50:57,289 --> 00:50:59,523
-Je te le jure
-par tous les sept dieux.
+Te lo juro
+por todos los siete dioses.
 
 670
 00:50:59,791 --> 00:51:01,658
-Mensonges viennent facilement à vous.
+Las mentiras vienen fácilmente a usted.
 
 671
 00:51:01,893 --> 00:51:03,327
-Tout le monde le sait.
+Todo el mundo sabe eso.
 
 672
 00:51:03,528 --> 00:51:06,262
@@ -3015,78 +3015,78 @@ Tout le monde le sait.
 
 674
 00:51:09,300 --> 00:51:11,701
-vous n'êtes pas très bon
-à ceux qui, je le crains.
+usted no es muy buena
+en los que, me temo.
 
 675
 00:51:13,370 --> 00:51:15,439
-Voilà peut-être pourquoi
-votre fils était si impatient
+Tal vez por eso
+su hijo estaba tan ansioso
 
 676
 00:51:15,706 --> 00:51:17,340
-vous mis de côté pour moi.
+para echar a un lado que para mí.
 
 677
 00:51:19,410 --> 00:51:21,544
-Vous êtes contrarié.
+Usted está molesto.
 
 678
 00:51:21,845 --> 00:51:23,980
-Vous n'êtes pas penser clairement.
+Usted no está pensando con claridad.
 
 679
 00:51:24,381 --> 00:51:26,542
-Je visiterai à nouveau lorsque vous avez
-eu la chance de se calmer.
+Voy a visitar de nuevo cuando tienes
+tenido la oportunidad de calmarse.
 
 680
 00:51:26,550 --> 00:51:28,284
-Je ne veux pas vous voir à nouveau.
+No quiero volver a verte.
 
 681
 00:51:28,652 --> 00:51:30,553
-Je ne l'espère vous changez
-votre esprit à ce sujet.
+Espero que cambie
+tu mente en eso.
 
 682
 00:51:30,854 --> 00:51:33,256
-On m'a dit que les hommes vont souvent folle
+Me han dicho que los hombres a menudo se vuelven locos
 
 683
 00:51:33,557 --> 00:51:35,858
-dans les cellules noires
-sous le Donjon Rouge.
+en las celdas negras
+debajo de la Fortaleza Roja.
 
 684
 00:51:36,193 --> 00:51:37,460
-Bien que je suppose
-votre isolement finira
+Aunque supongo
+su aislamiento terminará
 
 685
 00:51:37,694 --> 00:51:39,829
-Lorsque votre essai commence.
+cuando comience su juicio.
 
 686
 00:51:41,264 --> 00:51:43,098
-Laissez.
+Deja.
 
 687
 00:51:43,266 --> 00:51:44,934
-Oui.
+Sí.
 
 688
 00:51:45,168 --> 00:51:46,602
-Je crains que je dois.
+Me temo que debo hacerlo.
 
 689
 00:51:46,937 --> 00:51:48,704
 <i>My son needs me now
-plus que jamais. </ i>
+más que nunca. </ i>
 
 690
 00:51:49,005 --> 00:51:51,340
-Sortez, vous chienne haineux!
+¡Fuera, perra odiosa!
 
 691
 00:51:59,715 --> 00:52:02,317
@@ -3098,108 +3098,108 @@ Sortez, vous chienne haineux!
 
 693
 00:52:05,521 --> 00:52:07,356
-Dormez bien, ma sœur.
+Dormir bien, hermana.
 
 694
 00:52:11,694 --> 00:52:13,928
-- (Soupirs)
-- <I> (clics de verrouillage) </ i>
+- (Suspira)
+- <I> (clics de bloqueo) </ i>
 
 695
 00:52:35,117 --> 00:52:36,484
-Merci, Boake.
+Gracias, Boake.
 
 696
 00:52:43,758 --> 00:52:45,258
-- Vous l'avez vue?
-- Oui.
+- Usted la vio?
+- Sí.
 
 697
 00:52:45,627 --> 00:52:48,028
-- Et?
-- Ses hébergements semblent suffisantes.
+- ¿Y?
+- Sus habitaciones parecen suficientes.
 
 698
 00:52:48,295 --> 00:52:50,430
-Qu'arrive-t-elle maintenant?
+¿Qué pasa con ella?
 
 699
 00:52:50,765 --> 00:52:52,733
-Eh bien, elle et son frère
-sont tous deux détenus
+Bueno, ella y su hermano
+son a la vez que se celebra
 
 700
 00:52:52,967 --> 00:52:54,768
-sous le soupçon équitable.
+bajo sospecha justo.
 
 701
 00:52:55,069 --> 00:52:57,203
-Un procès aura lieu
-pour chacune d'entre elles
+Un ensayo se llevará a cabo
+para cada uno de ellos
 
 702
 00:52:57,505 --> 00:53:00,340
-afin de déterminer si elles sont
-coupable de tout acte
+para determinar si están
+culpables de los actos
 
 703
 00:53:00,774 --> 00:53:03,910
-qui pourrait constituer une violation
-des principes de la foi.
+que podrían constituir una violación
+de los principios de la fe.
 
 704
 00:53:04,145 --> 00:53:05,811
-Qui va tenir juge?
+¿Quién va a soportar juez?
 
 705
 00:53:06,247 --> 00:53:09,982
-Sept septons comme il était dans tous les
-les procès devant les Targaryens.
+Siete septones como lo fue en todo
+juicios ante los Targaryen.
 
 706
 00:53:11,618 --> 00:53:12,618
-Serez-vous l'un d'eux?
+¿Será usted uno de ellos?
 
 707
 00:53:12,753 --> 00:53:14,154
-Je vais.
+Lo haré.
 
 708
 00:53:16,657 --> 00:53:18,457
-Si une ou les deux d'entre eux
+Si uno de ellos o ambos
 
 709
 00:53:18,792 --> 00:53:21,027
-étaient à avouer
-avant le procès ...
+fueron a confesar
+antes del juicio ...
 
 710
 00:53:21,361 --> 00:53:23,195
-Ensuite, ils seront affichés
-la miséricorde de la Mère.
+Luego se le aparecen
+la misericordia de la Madre.
 
 711
 00:53:24,497 --> 00:53:26,766
-Et qu'est-ce que
-la miséricorde de la Mère implique?
+Y lo que hace
+la misericordia de la Madre conlleva?
 
 712
 00:53:27,034 --> 00:53:29,134
-Il dépend de la situation.
+Depende de la situación.
 
 713
 00:53:29,502 --> 00:53:32,237
-Le actes eux-mêmes,
-le degré de contrition.
+Los actos propios,
+el grado de contrición.
 
 714
 00:53:32,505 --> 00:53:35,207
-Merci, Haute Septon,
+Gracias, Septon Supremo,
 
 715
 00:53:35,608 --> 00:53:37,943
-pour les amener quelque
-la justice qu'ils méritent
+por haberlos lo
+la justicia que se merecen
 
 716
 00:53:38,211 --> 00:53:40,812
@@ -3211,55 +3211,55 @@ la justice qu'ils méritent
 
 718
 00:53:46,819 --> 00:53:49,153
-est une des plus anciennes
-structures à Kings Landing?
+es uno de los más antiguos
+estructuras en Desembarco del Rey?
 
 719
 00:53:50,957 --> 00:53:53,124
-Je pense que je peux avoir
-entendu à un moment donné.
+Creo que puede tener
+oído en un punto.
 
 720
 00:53:53,392 --> 00:53:55,994
-Baelor construit son septembre autour d'elle.
+Baelor septiembre construyó su alrededor.
 
 721
 00:53:57,663 --> 00:54:00,632
-Mais les hommes adoraient ici
-longtemps avant lui.
+Pero los hombres adoraban aquí
+mucho antes que él.
 
 722
 00:54:00,866 --> 00:54:03,401
-Qui a sculpté cet autel?
+Quién talló este altar?
 
 723
 00:54:03,703 --> 00:54:06,737
-- Savez-vous?
-- Je crains que je ne le fais pas.
+- Sabes?
+- Me temo que no lo hago.
 
 724
 00:54:06,905 --> 00:54:09,039
-Personne ne le fait.
+Nadie lo hace.
 
 725
 00:54:09,408 --> 00:54:12,843
-Il ya pas de nom sur le ou
-nulle part ailleurs dans la chapelle.
+No hay nombre en él o
+en cualquier otro lugar en la capilla.
 
 726
 00:54:15,046 --> 00:54:17,181
-Non, les gens
-qui a construit cet endroit
+No, la gente
+quien construyó este lugar
 
 727
 00:54:17,549 --> 00:54:21,419
-ne pas infliger de leur vanité
-sur ceux qui sont venus après eux
+no infligir su vanidad
+en los que vinieron después de ellos
 
 728
 00:54:21,853 --> 00:54:25,255
-la façon Baelor fait avec ce grand
-monstruosité dorée là-haut.
+el camino Baelor hizo con gran
+monstruosidad dorada hasta allí.
 
 729
 00:54:25,423 --> 00:54:26,991
@@ -3267,34 +3267,34 @@ Hmm.
 
 730
 00:54:27,225 --> 00:54:29,226
-Leur foi était propre.
+Su fe estaba limpio.
 
 731
 00:54:30,729 --> 00:54:33,196
-Dépouiller l'or
-et les ornements,
+Pele el oro
+y los adornos,
 
 732
 00:54:33,531 --> 00:54:36,934
-abattre les statues
-et les piliers,
+derribar las estatuas
+y los pilares,
 
 733
 00:54:37,201 --> 00:54:39,169
-et ceci est ce qui reste.
+y esto es lo que queda.
 
 734
 00:54:42,273 --> 00:54:44,674
-Quelque chose de simple ...
+Algo simple ...
 
 735
 00:54:48,045 --> 00:54:51,248
-et solide et vrai.
+y sólida y verdadera.
 
 736
 00:54:55,953 --> 00:54:58,955
-La parure des Tyrells
-sera dépouillé.
+Los mejores galas Tyrell '
+será despojado.
 
 737
 00:55:00,390 --> 00:55:02,058
@@ -3303,36 +3303,36 @@ sera dépouillé.
 738
 00:55:02,425 --> 00:55:05,094
 <i>Their true hearts
-mis à nu aux yeux de tous. </ i>
+puso al descubierto para que todos vean. </ i>
 
 739
 00:55:06,563 --> 00:55:09,198
-Et ce sera pour nous tous.
+Y por lo que será para todos nosotros.
 
 740
 00:55:09,432 --> 00:55:11,800
-Haut et bas identiques.
+Alta y baja por igual.
 
 741
 00:55:16,039 --> 00:55:18,073
-Que ferons-nous trouver
+¿Qué vamos a encontrar
 
 742
 00:55:18,375 --> 00:55:21,109
-quand nous dépouillons loin votre parure?
+cuando nos despojamos de su mejores galas?
 
 743
 00:55:24,581 --> 00:55:27,816
-Un jeune homme est venu pour nous
-il n'y a pas longtemps.
+Un joven vino a nosotros
+hace poco tiempo.
 
 744
 00:55:28,084 --> 00:55:30,752
-Brisé dans le corps et l'esprit.
+Quebrado en cuerpo y espíritu.
 
 745
 00:55:33,089 --> 00:55:35,157
-Il avait tellement de choses à dépouiller.
+Él tenía mucho que tira lejos.
 
 746
 00:55:37,226 --> 00:55:40,762
@@ -3341,7 +3341,7 @@ Il avait tellement de choses à dépouiller.
 747
 00:55:41,130 --> 00:55:43,999
 <i>But piece by piece,
-il se déchargea. </ i>
+se desahogó. </ i>
 
 748
 00:55:45,668 --> 00:55:47,535
@@ -3349,16 +3349,16 @@ il se déchargea. </ i>
 
 749
 00:55:47,736 --> 00:55:50,071
-l'orgueil, le péché.
+orgullo, pecado.
 
 750
 00:55:52,808 --> 00:55:55,210
-Maintenant, son âme est si léger,
+Ahora su alma es tan ligero,
 
 751
 00:55:55,611 --> 00:55:58,446
-il va flotter à travers le
-Sept Cieux comme un oiseau.
+que va a flotar a través de la
+Siete Cielos como un pájaro.
 
 752
 00:55:58,614 --> 00:56:00,081
@@ -3366,8 +3366,8 @@ Hmm.
 
 753
 00:56:05,286 --> 00:56:07,722
-Et il a beaucoup
-à dire sur vous.
+Y tiene mucho
+que decir de ti.
 
 754
 00:56:07,956 --> 00:56:09,690
@@ -3379,28 +3379,28 @@ Et il a beaucoup
 
 756
 00:56:32,012 --> 00:56:33,614
-Déplacer.
+Mover.
 
 757
 00:56:35,850 --> 00:56:38,251
-Lâchez-moi immédiatement.
+Déjame ir inmediatamente.
 
 758
 00:56:38,552 --> 00:56:41,221
-Vous pourrez lui ordonner de me laisser aller.
+Va a ordenarle que dejarme ir.
 
 759
 00:56:41,521 --> 00:56:43,923
-Je suis la reine!
-Je suis la reine!
+Soy la reina!
+Soy la reina!
 
 760
 00:56:44,158 --> 00:56:45,625
-Avez-vous perdu votre esprit?
+¿Te has perdido la cabeza?
 
 761
 00:56:45,826 --> 00:56:47,360
-Laisse moi partir!
+Déjame ir!
 
 762
 00:56:48,996 --> 00:56:50,896
@@ -3413,20 +3413,20 @@ Laisse moi partir!
 764
 00:56:53,734 --> 00:56:56,302
 <i>I am the queen!
-Lâchez-moi! </ I>
+Déjame ir! </ I>
 
 765
 00:57:02,576 --> 00:57:04,243
-Regardez-moi.
+Mírame.
 
 766
 00:57:06,913 --> 00:57:08,247
-Regardez mon visage.
+Mira mi cara.
 
 767
 00:57:11,550 --> 00:57:14,253
-Il est la dernière chose
-vous verrez avant de mourir.
+Es lo último
+verás antes de morir.
 
 768
 00:57:30,670 --> 00:57:38,670

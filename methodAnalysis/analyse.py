@@ -28,7 +28,7 @@ def fullSentence_wise(filePath):
     lines = a.splitlines()
     need = ""
     for i in lines:
-        need = need + i + " "
+        need = need + i + " " + '\n'
     return [need]
 
 def translate(need,langid):
